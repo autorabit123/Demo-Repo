@@ -52,6 +52,16 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
+        <fullName>Artisan_text__c</fullName>
+        <externalId>false</externalId>
+        <label>Artisan text</label>
+        <length>50</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Aug_Demo_Text_field__c</fullName>
         <externalId>false</externalId>
         <label>Aug Demo Text field</label>
