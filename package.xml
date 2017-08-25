@@ -127,6 +127,7 @@
         <members>AssetRelationship.RelatedAssetId</members>
         <members>AssetRelationship.RelationshipType</members>
         <members>AssetRelationship.ToDate</members>
+        <members>August_Demo__c.Artisan_text__c</members>
         <members>August_Demo__c.Aug_Demo_Text_field__c</members>
         <members>Book__c.Price__c</members>
         <members>CI_Demo__c.Type__c</members>
