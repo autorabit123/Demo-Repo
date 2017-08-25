@@ -127,6 +127,7 @@
         <members>AssetRelationship.RelatedAssetId</members>
         <members>AssetRelationship.RelationshipType</members>
         <members>AssetRelationship.ToDate</members>
+        <members>August_Demo__c.Aug_Demo_Text_field__c</members>
         <members>Book__c.Price__c</members>
         <members>CI_Demo__c.Type__c</members>
         <members>CI_Job__c.Alm_tool__c</members>
@@ -643,6 +644,7 @@
         <members>Asset</members>
         <members>AssetRelationship</members>
         <members>AssistantProgress</members>
+        <members>August_Demo__c</members>
         <members>Book__c</members>
         <members>CI_Demo__c</members>
         <members>CI_Job__c</members>
@@ -759,6 +761,7 @@
         <members>Account-Account %28Support%29 Layout</members>
         <members>Account-Account Layout</members>
         <members>Asset-Asset Layout</members>
+        <members>August_Demo__c-August Demo Layout</members>
         <members>Book__c-Book Layout</members>
         <members>CI_Demo__c-CI Demo Layout</members>
         <members>CI_Job__c-CI Job Layout</members>
