@@ -56,6 +56,14 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
+        <apexClass>AccountCreation</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AccountCreationTest</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>CreateAccountClass</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -355,6 +363,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>August_Demo__c.Aug_Demo_Text_field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>August_Demo__c.Type_of_Demo__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>

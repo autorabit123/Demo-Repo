@@ -71,6 +71,16 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>Type_of_Demo__c</fullName>
+        <externalId>false</externalId>
+        <label>Type of Demo</label>
+        <length>50</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>August Demo</label>
     <nameField>
         <label>August Demo Name</label>
