@@ -129,6 +129,8 @@
         <members>AssetRelationship.ToDate</members>
         <members>August_Demo__c.Artisan_text__c</members>
         <members>August_Demo__c.Aug_Demo_Text_field__c</members>
+        <members>August_Demo__c.Type2__c</members>
+        <members>August_Demo__c.Type_of_Demo__c</members>
         <members>Book__c.Price__c</members>
         <members>CI_Demo__c.Type__c</members>
         <members>CI_Job__c.Alm_tool__c</members>
