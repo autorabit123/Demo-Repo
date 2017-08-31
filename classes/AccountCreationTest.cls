@@ -1,7 +1,7 @@
 @isTest
 public class AccountCreationTest
 {
-  static testMethod void testInsertAccount() //testClass 1
+  static testMethod void testInsertAccount() //testClass
   {
   
   // Demo purpose
