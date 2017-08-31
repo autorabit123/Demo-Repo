@@ -377,6 +377,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>August_Demo__c.Eide_Biley_text__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>August_Demo__c.Type2__c</field>
         <readable>true</readable>
     </fieldPermissions>
