@@ -367,6 +367,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>August_Demo__c.Aug_29__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>August_Demo__c.Aug_Demo_Text_field__c</field>
         <readable>true</readable>
     </fieldPermissions>

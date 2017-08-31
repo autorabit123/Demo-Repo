@@ -131,6 +131,7 @@
         <members>AssetRelationship.RelationshipType</members>
         <members>AssetRelationship.ToDate</members>
         <members>August_Demo__c.Artisan_text__c</members>
+        <members>August_Demo__c.Aug_29__c</members>
         <members>August_Demo__c.Aug_Demo_Text_field__c</members>
         <members>August_Demo__c.Type2__c</members>
         <members>August_Demo__c.Type3__c</members>
