@@ -364,6 +364,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>August_Demo__c.Type3__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>August_Demo__c.Type_of_Demo__c</field>
         <readable>true</readable>
     </fieldPermissions>
