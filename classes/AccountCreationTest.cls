@@ -4,7 +4,7 @@ public class AccountCreationTest
   static testMethod void testInsertAccount() //testClass
   {
   
-  // For Demo
+  // For Vistage Demo
   AccountCreation ca = new AccountCreation();
   ca.createAccount('TestAcc1');
   
