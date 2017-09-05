@@ -93,6 +93,7 @@
     </fields>
     <fields>
         <fullName>Type2__c</fullName>
+        <description>sep test</description>
         <externalId>false</externalId>
         <label>Type2</label>
         <length>50</length>
