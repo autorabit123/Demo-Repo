@@ -61,6 +61,16 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>uber_text__c</fullName>
+        <externalId>false</externalId>
+        <label>uber text</label>
+        <length>50</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Sep Demo</label>
     <nameField>
         <label>Sep Demo Name</label>
