@@ -124,7 +124,7 @@
     </fields>
     <fields>
         <fullName>Type_of_Demo__c</fullName>
-        <description>Demo for Glassdoor</description>
+        <description>Demo for Glassdoor - Session II on sep 6th</description>
         <externalId>false</externalId>
         <label>Type of Demo</label>
         <length>50</length>
