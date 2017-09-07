@@ -1552,6 +1552,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Sep_Demo__c.uber_text__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>SocialPersona.SourceApp</field>
         <readable>true</readable>
     </fieldPermissions>
