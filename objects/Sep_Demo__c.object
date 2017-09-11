@@ -62,6 +62,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Type_of_Demo__c</fullName>
+        <externalId>false</externalId>
+        <label>Type of Demo</label>
+        <length>50</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>uber_text__c</fullName>
         <externalId>false</externalId>
         <label>uber text</label>
