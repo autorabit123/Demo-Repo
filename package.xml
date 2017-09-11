@@ -603,6 +603,7 @@
         <members>Product2.ProductCode</members>
         <members>Product2.QuantityUnitOfMeasure</members>
         <members>Sep_Demo__c.Glassdoor__c</members>
+        <members>Sep_Demo__c.Type_of_Demo__c</members>
         <members>Sep_Demo__c.uber_text__c</members>
         <members>SocialPersona.ExternalId</members>
         <members>SocialPersona.ExternalPictureURL</members>
