@@ -22,6 +22,10 @@
                 <behavior>Edit</behavior>
                 <field>Type_of_Demo__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Opentable_Text__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
