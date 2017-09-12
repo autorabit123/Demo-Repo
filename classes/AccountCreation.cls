@@ -3,7 +3,7 @@ public Class AccountCreation
 public Account createAccount(String name) //Method to Create Account. 
 {
 
-// This is an Apex class! - Changes made for Opentable Demo
+// This is an Apex class! - Sep 12th userstory changes
 Account acc = new Account(); 
 acc.Name = name;
 system.debug('Test');

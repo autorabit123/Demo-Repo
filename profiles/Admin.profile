@@ -1539,6 +1539,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Sep_Demo__c.Digimarc_text__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Sep_Demo__c.Glassdoor__c</field>
         <readable>true</readable>
     </fieldPermissions>

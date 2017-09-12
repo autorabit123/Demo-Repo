@@ -598,6 +598,7 @@
         <members>Product2.Name</members>
         <members>Product2.ProductCode</members>
         <members>Product2.QuantityUnitOfMeasure</members>
+        <members>Sep_Demo__c.Digimarc_text__c</members>
         <members>Sep_Demo__c.Glassdoor__c</members>
         <members>Sep_Demo__c.Opentable_Text__c</members>
         <members>Sep_Demo__c.Type_of_Demo__c</members>
