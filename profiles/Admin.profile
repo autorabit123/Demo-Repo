@@ -1567,6 +1567,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Sep_Demo__c.picklist__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Sep_Demo__c.uber_text__c</field>
         <readable>true</readable>
     </fieldPermissions>

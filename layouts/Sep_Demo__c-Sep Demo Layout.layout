@@ -30,6 +30,10 @@
                 <behavior>Edit</behavior>
                 <field>Digimarc_text__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>picklist__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
