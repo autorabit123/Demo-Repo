@@ -605,7 +605,9 @@
         <members>Sep_Demo__c.Digimarc_text__c</members>
         <members>Sep_Demo__c.Glassdoor__c</members>
         <members>Sep_Demo__c.Opentable_Text__c</members>
+        <members>Sep_Demo__c.Type_of_ALM_Tool__c</members>
         <members>Sep_Demo__c.Type_of_Demo__c</members>
+        <members>Sep_Demo__c.Type_of_VCS__c</members>
         <members>Sep_Demo__c.picklist__c</members>
         <members>Sep_Demo__c.uber_text__c</members>
         <members>SocialPersona.ExternalId</members>
