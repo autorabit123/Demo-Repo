@@ -53,6 +53,7 @@
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
         <fullName>Test1__c</fullName>
+        <description>For Demo</description>
         <externalId>false</externalId>
         <label>Test1</label>
         <length>50</length>
