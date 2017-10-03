@@ -4,7 +4,7 @@ public class AccountCreationTest
   static testMethod void testInsertAccount() //testClass
   {
   
-  // Demo purpose..
+  // Demo purpose
   AccountCreation ca = new AccountCreation();
   ca.createAccount('TestAcc1');
   
