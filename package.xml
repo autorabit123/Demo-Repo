@@ -486,6 +486,7 @@
         <members>Macro.Name</members>
         <members>Macro.OwnerId</members>
         <members>Metric.OrigMetricId__c</members>
+        <members>October_Demo__c.Parsons_text__c</members>
         <members>October_Demo__c.Test1__c</members>
         <members>Opportunity.AccountId</members>
         <members>Opportunity.Amount</members>
