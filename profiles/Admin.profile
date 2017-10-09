@@ -1164,6 +1164,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>October_Demo__c.Synapse_text__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>October_Demo__c.Test1__c</field>
         <readable>true</readable>
     </fieldPermissions>
