@@ -1167,6 +1167,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Object_A__c.Field_A__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>October_Demo__c.Parsons_text__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1756,6 +1761,9 @@
         <layout>Macro-Macro Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Object_A__c-Object A Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>October_Demo__c-October Demo Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -2017,6 +2025,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>Macro</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Object_A__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
