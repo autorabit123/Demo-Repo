@@ -445,6 +445,8 @@
         <members>Event.WhatId</members>
         <members>Event.WhoId</members>
         <members>Goal.OrigGoalId__c</members>
+        <members>HNI_Object__c.HNI_Picklist__c</members>
+        <members>HNI_Object__c.HNI_Text_Field__c</members>
         <members>Idea.Categories</members>
         <members>Idea.Status</members>
         <members>July3__c.July3_field__c</members>
@@ -701,6 +703,7 @@
         <members>ExchangeUserMapping</members>
         <members>FeedItem</members>
         <members>ForecastingCategoryMapping</members>
+        <members>HNI_Object__c</members>
         <members>Idea</members>
         <members>July3__c</members>
         <members>June_15__c</members>
@@ -824,6 +827,7 @@
         <members>Event-Event Layout</members>
         <members>FeedItem-Feed Item Layout</members>
         <members>Global-Global Layout</members>
+        <members>HNI_Object__c-HNI Object Layout</members>
         <members>Idea-Idea Layout</members>
         <members>July3__c-July3 Layout</members>
         <members>June_15__c-June 15 Layout</members>
