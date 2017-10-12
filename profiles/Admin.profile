@@ -1177,6 +1177,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Object_B__c.Obj_B_Picklist__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Object_B__c.Obj_B_Text__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>October_Demo__c.Parsons_text__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1767,6 +1777,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Object_A__c-Object A Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Object_B__c-Object B Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>October_Demo__c-October Demo Layout</layout>
