@@ -1172,6 +1172,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Object_A__c.Field_B__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>October_Demo__c.Parsons_text__c</field>
         <readable>true</readable>
     </fieldPermissions>
