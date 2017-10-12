@@ -710,6 +710,7 @@
         <members>MacroAction</members>
         <members>MacroInstruction</members>
         <members>Object_A__c</members>
+        <members>Object_B__c</members>
         <members>October_Demo__c</members>
         <members>Opportunity</members>
         <members>OpportunityCompetitor</members>
