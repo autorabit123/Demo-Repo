@@ -444,6 +444,7 @@
         <members>Event.Type</members>
         <members>Event.WhatId</members>
         <members>Event.WhoId</members>
+        <members>Freddie_Mac__c.FreddieMac_Text__c</members>
         <members>Goal.OrigGoalId__c</members>
         <members>HNI_Object2__c.FieldABC__c</members>
         <members>HNI_Object__c.HNI_Picklist__c</members>
@@ -704,6 +705,7 @@
         <members>ExchangeUserMapping</members>
         <members>FeedItem</members>
         <members>ForecastingCategoryMapping</members>
+        <members>Freddie_Mac__c</members>
         <members>HNI_Object2__c</members>
         <members>HNI_Object__c</members>
         <members>Idea</members>
@@ -828,6 +830,7 @@
         <members>Employee__c-Employee Layout</members>
         <members>Event-Event Layout</members>
         <members>FeedItem-Feed Item Layout</members>
+        <members>Freddie_Mac__c-Freddie Mac Layout</members>
         <members>Global-Global Layout</members>
         <members>HNI_Object2__c-HNI Object2 Layout</members>
         <members>HNI_Object__c-HNI Object Layout</members>
