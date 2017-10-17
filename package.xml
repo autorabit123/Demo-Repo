@@ -445,6 +445,7 @@
         <members>Event.WhatId</members>
         <members>Event.WhoId</members>
         <members>Goal.OrigGoalId__c</members>
+        <members>HNI_Object2__c.FieldABC__c</members>
         <members>HNI_Object__c.HNI_Picklist__c</members>
         <members>HNI_Object__c.HNI_Text_Field__c</members>
         <members>Idea.Categories</members>
@@ -703,6 +704,7 @@
         <members>ExchangeUserMapping</members>
         <members>FeedItem</members>
         <members>ForecastingCategoryMapping</members>
+        <members>HNI_Object2__c</members>
         <members>HNI_Object__c</members>
         <members>Idea</members>
         <members>July3__c</members>
@@ -827,6 +829,7 @@
         <members>Event-Event Layout</members>
         <members>FeedItem-Feed Item Layout</members>
         <members>Global-Global Layout</members>
+        <members>HNI_Object2__c-HNI Object2 Layout</members>
         <members>HNI_Object__c-HNI Object Layout</members>
         <members>Idea-Idea Layout</members>
         <members>July3__c-July3 Layout</members>
@@ -851,6 +854,8 @@
         <members>Pricebook2-Price Book Layout</members>
         <members>PricebookEntry-Price Book Entry Layout</members>
         <members>Product2-Product Layout</members>
+        <members>Scorecard-Scorecard Layout</members>
+        <members>ScorecardMetric-Scorecard Metric Layout</members>
         <members>Sep_Demo__c-Sep Demo Layout</members>
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
