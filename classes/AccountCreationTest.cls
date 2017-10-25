@@ -4,7 +4,7 @@ public class AccountCreationTest
   static testMethod void testInsertAccount() //testClass
   {
   
-  // For FreddieMac Usecase Demo
+  // Demo purpose
   AccountCreation ca = new AccountCreation();
   ca.createAccount('TestAcc1');
   
