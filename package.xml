@@ -495,6 +495,8 @@
         <members>Object_B__c.Obj_B_Picklist__c</members>
         <members>Object_B__c.Obj_B_Text__c</members>
         <members>October_Demo__c.Parsons_text__c</members>
+        <members>October_Demo__c.Riverbed_Picklist__c</members>
+        <members>October_Demo__c.Riverbed_text__c</members>
         <members>October_Demo__c.Synapse_text__c</members>
         <members>October_Demo__c.Test1__c</members>
         <members>October_Demo__c.Test2__c</members>

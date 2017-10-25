@@ -1207,6 +1207,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>October_Demo__c.Riverbed_Picklist__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>October_Demo__c.Riverbed_text__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>October_Demo__c.Synapse_text__c</field>
         <readable>true</readable>
     </fieldPermissions>
