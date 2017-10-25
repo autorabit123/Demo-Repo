@@ -4,7 +4,7 @@ public class AccountCreationTest
   static testMethod void testInsertAccount() //testClass
   {
   
-  // Demo purpose
+  // RiverBed Demo changes
   AccountCreation ca = new AccountCreation();
   ca.createAccount('TestAcc1');
   
