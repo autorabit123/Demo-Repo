@@ -63,7 +63,9 @@
     </fields>
     <fields>
         <fullName>Riverbed_Picklist__c</fullName>
+        <description>Demo</description>
         <externalId>false</externalId>
+        <inlineHelpText>Demo purpose</inlineHelpText>
         <label>Riverbed Picklist</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
@@ -97,9 +99,10 @@
     </fields>
     <fields>
         <fullName>Riverbed_text__c</fullName>
+        <description>Demo Purpose Oct 25</description>
         <externalId>false</externalId>
         <label>Riverbed text</label>
-        <length>50</length>
+        <length>70</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
