@@ -63,7 +63,7 @@
     </fields>
     <fields>
         <fullName>Riverbed_Picklist__c</fullName>
-        <description>Demo Deployment</description>
+        <description>RiverBed Demo Deployment - Oct 26</description>
         <externalId>false</externalId>
         <inlineHelpText>Demo purpose</inlineHelpText>
         <label>Riverbed Picklist</label>
@@ -99,7 +99,7 @@
     </fields>
     <fields>
         <fullName>Riverbed_text__c</fullName>
-        <description>Demo Purpose Oct 25 Deployment</description>
+        <description>RiverBed Demo Purpose Oct 26 Deployment</description>
         <externalId>false</externalId>
         <label>Riverbed text</label>
         <length>70</length>
