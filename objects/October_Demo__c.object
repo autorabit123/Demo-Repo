@@ -102,7 +102,7 @@
         <description>Demo Purpose</description>
         <externalId>false</externalId>
         <label>Riverbed text</label>
-        <length>60</length>
+        <length>70</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
