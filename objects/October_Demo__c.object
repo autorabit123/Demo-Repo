@@ -99,7 +99,7 @@
     </fields>
     <fields>
         <fullName>Riverbed_text__c</fullName>
-        <description>Demo Purpose</description>
+        <description>Demo Purpose Oct 25</description>
         <externalId>false</externalId>
         <label>Riverbed text</label>
         <length>70</length>
