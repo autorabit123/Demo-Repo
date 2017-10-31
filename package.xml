@@ -138,6 +138,7 @@
         <members>August_Demo__c.Type3__c</members>
         <members>August_Demo__c.Type4__c</members>
         <members>August_Demo__c.Type_of_Demo__c</members>
+        <members>AutoRABIT_Demo__c.Demo_text__c</members>
         <members>Book__c.Price__c</members>
         <members>CI_Demo__c.Type__c</members>
         <members>CI_Job__c.Alm_tool__c</members>
@@ -682,6 +683,7 @@
         <members>AssetRelationship</members>
         <members>AssistantProgress</members>
         <members>August_Demo__c</members>
+        <members>AutoRABIT_Demo__c</members>
         <members>Book__c</members>
         <members>CI_Demo__c</members>
         <members>CI_Job__c</members>
@@ -809,6 +811,7 @@
         <members>Account-Account Layout</members>
         <members>Asset-Asset Layout</members>
         <members>August_Demo__c-August Demo Layout</members>
+        <members>AutoRABIT_Demo__c-AutoRABIT Demo Layout</members>
         <members>Book__c-Book Layout</members>
         <members>CI_Demo__c-CI Demo Layout</members>
         <members>CI_Job__c-CI Job Layout</members>

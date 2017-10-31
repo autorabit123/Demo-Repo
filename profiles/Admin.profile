@@ -402,6 +402,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>AutoRABIT_Demo__c.Demo_text__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Book__c.Price__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1725,6 +1730,9 @@
         <layout>August_Demo__c-August Demo Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>AutoRABIT_Demo__c-AutoRABIT Demo Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Book__c-Book Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1899,6 +1907,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>August_Demo__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>AutoRABIT_Demo__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
@@ -2330,6 +2347,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ActivateOrder</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>AddDirectMessageMembers</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -2766,6 +2787,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>PublishPackaging</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>RemoveDirectMessageMembers</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
