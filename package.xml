@@ -139,6 +139,7 @@
         <members>August_Demo__c.Type4__c</members>
         <members>August_Demo__c.Type_of_Demo__c</members>
         <members>AutoRABIT_Demo__c.Demo_text__c</members>
+        <members>AutoRABIT_Demo__c.Demo_type__c</members>
         <members>Book__c.Price__c</members>
         <members>CI_Demo__c.Type__c</members>
         <members>CI_Job__c.Alm_tool__c</members>

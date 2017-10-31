@@ -407,6 +407,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>AutoRABIT_Demo__c.Demo_type__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Book__c.Price__c</field>
         <readable>true</readable>
     </fieldPermissions>
