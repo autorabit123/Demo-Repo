@@ -56,6 +56,17 @@
         <fullName>Demo_text__c</fullName>
         <externalId>false</externalId>
         <label>Demo text</label>
+        <length>60</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Demo_type__c</fullName>
+        <description>For demo</description>
+        <externalId>false</externalId>
+        <label>Demo type</label>
         <length>50</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
