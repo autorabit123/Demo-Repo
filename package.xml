@@ -300,6 +300,7 @@
         <members>Contract.StartDate</members>
         <members>Contract.Status</members>
         <members>ContractContactRole.Role</members>
+        <members>DF_17__c.Field_A__c</members>
         <members>DandBCompany.CompanyCurrencyIsoCode</members>
         <members>DandBCompany.CountryAccessCode</members>
         <members>DandBCompany.CurrencyCode</members>
@@ -699,6 +700,7 @@
         <members>ContentVersion</members>
         <members>Contract</members>
         <members>ContractContactRole</members>
+        <members>DF_17__c</members>
         <members>DandBCompany</members>
         <members>Demo2__c</members>
         <members>Demo3__c</members>
@@ -837,6 +839,7 @@
         <members>Contact-Contact Layout</members>
         <members>ContentVersion-Content Version Layout</members>
         <members>Contract-Contract Layout</members>
+        <members>DF_17__c-DF 17 Layout</members>
         <members>DandBCompany-D%26B Company Layout</members>
         <members>Demo2__c-Demo2 Layout</members>
         <members>Demo3__c-Demo3 Layout</members>
