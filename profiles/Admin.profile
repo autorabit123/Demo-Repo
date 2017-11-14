@@ -1194,7 +1194,27 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>October_Demo__c.Parsons_text__c</field>
+        <field>Nov_Demo__c.Mathwork_field_A__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Nov_Demo__c.Mathwork_field_B__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Object_A__c.Field_A__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Object_A__c.Field_B__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Object_B__c.Obj_B_Picklist__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -1817,6 +1837,15 @@
         <layout>Macro-Macro Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Nov_Demo__c-Nov Demo Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Object_A__c-Object A Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Object_B__c-Object B Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>October_Demo__c-October Demo Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -2114,6 +2143,24 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>Macro</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Nov_Demo__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Object_A__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
