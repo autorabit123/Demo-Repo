@@ -301,6 +301,8 @@
         <members>Contract.Status</members>
         <members>ContractContactRole.Role</members>
         <members>DF_17__c.Field_A__c</members>
+        <members>DF_17__c.Field_B__c</members>
+        <members>DF_17__c.Field_C__c</members>
         <members>DandBCompany.CompanyCurrencyIsoCode</members>
         <members>DandBCompany.CountryAccessCode</members>
         <members>DandBCompany.CurrencyCode</members>
