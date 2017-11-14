@@ -495,6 +495,7 @@
         <members>Macro.Name</members>
         <members>Macro.OwnerId</members>
         <members>Metric.OrigMetricId__c</members>
+        <members>Nov_Demo__c.Mathwork_field_A__c</members>
         <members>Object_A__c.Field_A__c</members>
         <members>Object_A__c.Field_B__c</members>
         <members>Object_B__c.Obj_B_Picklist__c</members>
@@ -726,6 +727,7 @@
         <members>Macro</members>
         <members>MacroAction</members>
         <members>MacroInstruction</members>
+        <members>Nov_Demo__c</members>
         <members>Object_A__c</members>
         <members>Object_B__c</members>
         <members>October_Demo__c</members>
@@ -866,6 +868,7 @@
         <members>Lead-Lead (Support) Layout</members>
         <members>Lead-Lead Layout</members>
         <members>Macro-Macro Layout</members>
+        <members>Nov_Demo__c-Nov Demo Layout</members>
         <members>Object_A__c-Object A Layout</members>
         <members>Object_B__c-Object B Layout</members>
         <members>October_Demo__c-October Demo Layout</members>
