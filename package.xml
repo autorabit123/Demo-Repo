@@ -496,6 +496,7 @@
         <members>Macro.OwnerId</members>
         <members>Metric.OrigMetricId__c</members>
         <members>Nov_Demo__c.Mathwork_field_A__c</members>
+        <members>Nov_Demo__c.Mathwork_field_B__c</members>
         <members>Object_A__c.Field_A__c</members>
         <members>Object_A__c.Field_B__c</members>
         <members>Object_B__c.Obj_B_Picklist__c</members>
