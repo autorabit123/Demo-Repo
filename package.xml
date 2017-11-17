@@ -494,6 +494,7 @@
         <members>Metric.OrigMetricId__c</members>
         <members>Nov_Demo__c.Mathwork_field_A__c</members>
         <members>Nov_Demo__c.Mathwork_field_B__c</members>
+        <members>Nov_test_2__c.Nov_picklist_field__c</members>
         <members>Object_A__c.Field_A__c</members>
         <members>Object_A__c.Field_B__c</members>
         <members>Object_B__c.Obj_B_Picklist__c</members>
@@ -726,6 +727,7 @@
         <members>MacroAction</members>
         <members>MacroInstruction</members>
         <members>Nov_Demo__c</members>
+        <members>Nov_test_2__c</members>
         <members>Object_A__c</members>
         <members>Object_B__c</members>
         <members>October_Demo__c</members>
@@ -855,6 +857,7 @@
         <members>Lead-Lead Layout</members>
         <members>Macro-Macro Layout</members>
         <members>Nov_Demo__c-Nov Demo Layout</members>
+        <members>Nov_test_2__c-Nov test 2 Layout</members>
         <members>Object_A__c-Object A Layout</members>
         <members>Object_B__c-Object B Layout</members>
         <members>October_Demo__c-October Demo Layout</members>
@@ -975,6 +978,7 @@
         <members>HighVolumePortal</members>
         <members>Identity User</members>
         <members>MarketingProfile</members>
+        <members>Nov test</members>
         <members>Partner App Subscription User</members>
         <members>Partner Community Login User</members>
         <members>Partner Community User</members>
@@ -1116,6 +1120,10 @@
         <members>TaskSubject</members>
         <members>TaskType</members>
         <name>StandardValueSet</name>
+    </types>
+    <types>
+        <members>Nov_test_2__c.Nov_test_validation_rule</members>
+        <name>ValidationRule</name>
     </types>
     <types>
         <members>Account.Billing</members>

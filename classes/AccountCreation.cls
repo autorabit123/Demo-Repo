@@ -3,7 +3,7 @@ public Class AccountCreation
 public Account createAccount(String name) //Method to Create Account. 
 {
 
-// This is an Apex class - Demo changes Nov 14
+// This is an Apex class 
 Account acc = new Account(); 
 acc.Name = name;
 system.debug('Test');
