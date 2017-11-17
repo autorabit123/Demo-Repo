@@ -1217,6 +1217,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Nov_test_2__c.Nov_picklist_field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Object_A__c.Field_A__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1856,6 +1861,9 @@
         <layout>Nov_Demo__c-Nov Demo Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Nov_test_2__c-Nov test 2 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Object_A__c-Object A Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -2168,6 +2176,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>Nov_Demo__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Nov_test_2__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
