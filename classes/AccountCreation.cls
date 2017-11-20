@@ -1,6 +1,6 @@
 public Class AccountCreation
 {
-public Account createAccount(String name) //Method to Create Account. 
+public Account createAccount(String name) //Method to Create Account - Demo changes Nov 20th
 {
 
 // This is an Apex class - Genomic demo

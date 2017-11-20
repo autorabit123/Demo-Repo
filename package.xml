@@ -61,6 +61,7 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>AR_Genomic_obj__c.AR_Genomic_picklist__c</members>
         <members>Account.AccountNumber</members>
         <members>Account.AccountSource</members>
         <members>Account.Active__c</members>
@@ -683,6 +684,7 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>AR_Genomic_obj__c</members>
         <members>Account</members>
         <members>AccountCleanInfo</members>
         <members>AccountContactRole</members>
@@ -814,6 +816,7 @@
         <name>HomePageLayout</name>
     </types>
     <types>
+        <members>AR_Genomic_obj__c-AR Genomic obj Layout</members>
         <members>Account-Account %28Marketing%29 Layout</members>
         <members>Account-Account %28Sales%29 Layout</members>
         <members>Account-Account %28Support%29 Layout</members>
@@ -977,6 +980,7 @@
         <name>PermissionSet</name>
     </types>
     <types>
+        <members>AR Genomic Profile</members>
         <members>Admin</members>
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>
