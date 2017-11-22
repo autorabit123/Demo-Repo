@@ -422,6 +422,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>CBN__c.CBN_picklist__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>CI_Demo__c.Type__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1784,6 +1789,9 @@
         <layout>Book__c-Book Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>CBN__c-CBN Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>CI_Demo__c-CI Demo Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1994,6 +2002,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>Book__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>CBN__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
