@@ -139,6 +139,7 @@
         <members>August_Demo__c.Type_of_Demo__c</members>
         <members>AutoRABIT_Demo__c.Demo_text__c</members>
         <members>Book__c.Price__c</members>
+        <members>CBN__c.CBN_picklist__c</members>
         <members>CI_Demo__c.Type__c</members>
         <members>CI_Job__c.Alm_tool__c</members>
         <members>CI_Job__c.CI_Job_field__c</members>
@@ -692,6 +693,7 @@
         <members>August_Demo__c</members>
         <members>AutoRABIT_Demo__c</members>
         <members>Book__c</members>
+        <members>CBN__c</members>
         <members>CI_Demo__c</members>
         <members>CI_Job__c</members>
         <members>Campaign</members>
@@ -822,6 +824,7 @@
         <members>August_Demo__c-August Demo Layout</members>
         <members>AutoRABIT_Demo__c-AutoRABIT Demo Layout</members>
         <members>Book__c-Book Layout</members>
+        <members>CBN__c-CBN Layout</members>
         <members>CI_Demo__c-CI Demo Layout</members>
         <members>CI_Job__c-CI Job Layout</members>
         <members>Campaign-Campaign Layout</members>
@@ -961,6 +964,7 @@
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>
         <members>Authenticated Website</members>
+        <members>CBN CP</members>
         <members>Chatter External User</members>
         <members>Chatter Free User</members>
         <members>Chatter Moderator User</members>
