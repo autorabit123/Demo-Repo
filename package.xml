@@ -407,6 +407,8 @@
         <members>Demo3__c.Presenter_Email__c</members>
         <members>Demo3__c.Requirement__c</members>
         <members>Demo3__c.Type_of_Demo__c</members>
+        <members>Demo_AR__c.Astellas_Field_A__c</members>
+        <members>Demo_AR__c.Astellas_Field_B__c</members>
         <members>Demo_object__c.Demo_Picklist_field__c</members>
         <members>Demo_object__c.Industry__c</members>
         <members>DuplicateRecordItem.DuplicateRecordSetId</members>
@@ -714,6 +716,7 @@
         <members>DandBCompany</members>
         <members>Demo2__c</members>
         <members>Demo3__c</members>
+        <members>Demo_AR__c</members>
         <members>Demo_object__c</members>
         <members>DuplicateRecordItem</members>
         <members>DuplicateRecordSet</members>
@@ -858,6 +861,7 @@
         <members>DandBCompany-D%26B Company Layout</members>
         <members>Demo2__c-Demo2 Layout</members>
         <members>Demo3__c-Demo3 Layout</members>
+        <members>Demo_AR__c-Demo AR Layout</members>
         <members>Demo_object__c-Demo object Layout</members>
         <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
         <members>EmailMessage-Email Message Layout</members>
