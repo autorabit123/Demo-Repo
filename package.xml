@@ -63,6 +63,7 @@
     <types>
         <members>AR_Genomic_obj__c.AR_Genomic_picklist__c</members>
         <members>AWS_Obj__c.AWS_picklist__c</members>
+        <members>AWS_Obj__c.AWS_text__c</members>
         <members>Account.AccountNumber</members>
         <members>Account.AccountSource</members>
         <members>Account.Active__c</members>

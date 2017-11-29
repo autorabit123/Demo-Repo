@@ -92,6 +92,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>AWS_Obj__c.AWS_text__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Account.AccountNumber</field>
         <readable>true</readable>
     </fieldPermissions>
