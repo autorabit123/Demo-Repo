@@ -1070,6 +1070,7 @@
         <name>QuickAction</name>
     </types>
     <types>
+        <members>Account.Acc_Rec_type1</members>
         <members>Idea.InternalIdeasIdeaRecordType</members>
         <members>Metric.Completion</members>
         <members>Metric.Progress</members>
