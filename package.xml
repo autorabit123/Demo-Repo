@@ -71,6 +71,7 @@
         <members>Account.BillingAddress</members>
         <members>Account.CleanStatus</members>
         <members>Account.CustomerPriority__c</members>
+        <members>Account.DL_Test2__c</members>
         <members>Account.DandbCompanyId</members>
         <members>Account.Description</members>
         <members>Account.DunsNumber</members>
