@@ -506,6 +506,7 @@
         <members>Macro.Name</members>
         <members>Macro.OwnerId</members>
         <members>Metric.OrigMetricId__c</members>
+        <members>Nielsen__c.Dec_4_text__c</members>
         <members>Nov_Demo__c.Mathwork_field_A__c</members>
         <members>Nov_Demo__c.Mathwork_field_B__c</members>
         <members>Nov_test_2__c.Nov_picklist_field__c</members>
@@ -747,6 +748,7 @@
         <members>Macro</members>
         <members>MacroAction</members>
         <members>MacroInstruction</members>
+        <members>Nielsen__c</members>
         <members>Nov_Demo__c</members>
         <members>Nov_test_2__c</members>
         <members>Object_A__c</members>
@@ -896,6 +898,7 @@
         <members>Lead-Lead (Support) Layout</members>
         <members>Lead-Lead Layout</members>
         <members>Macro-Macro Layout</members>
+        <members>Nielsen__c-Nielsen Layout</members>
         <members>Nov_Demo__c-Nov Demo Layout</members>
         <members>Nov_test_2__c-Nov test 2 Layout</members>
         <members>Object_A__c-Object A Layout</members>
