@@ -65,6 +65,7 @@
         <members>AWS_Obj__c.AWS_picklist__c</members>
         <members>AWS_Obj__c.AWS_text__c</members>
         <members>Abbvie_obj__c.Abbvie_text__c</members>
+        <members>Abbvie_obj__c.Test2__c</members>
         <members>Account.AccountNumber</members>
         <members>Account.AccountSource</members>
         <members>Account.Active__c</members>
