@@ -1244,6 +1244,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Nielsen__c.Dec_4_text__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Nov_Demo__c.Mathwork_field_A__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1917,6 +1922,9 @@
         <layout>Macro-Macro Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Nielsen__c-Nielsen Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Nov_Demo__c-Nov Demo Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -2289,6 +2297,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>Macro</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Nielsen__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
