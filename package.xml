@@ -455,6 +455,7 @@
         <members>Event.Type</members>
         <members>Event.WhatId</members>
         <members>Event.WhoId</members>
+        <members>FannieMae__c.FannieMae_Picklist__c</members>
         <members>Freddie_Mac__c.FreddieMac_Text__c</members>
         <members>Genomic__c.Genomic_picklist_field__c</members>
         <members>Goal.OrigGoalId__c</members>
@@ -730,6 +731,7 @@
         <members>Employee__c</members>
         <members>Event</members>
         <members>ExchangeUserMapping</members>
+        <members>FannieMae__c</members>
         <members>FeedItem</members>
         <members>ForecastingCategoryMapping</members>
         <members>Freddie_Mac__c</members>
@@ -868,6 +870,7 @@
         <members>EmailMessage-Email Message Layout</members>
         <members>Employee__c-Employee Layout</members>
         <members>Event-Event Layout</members>
+        <members>FannieMae__c-FannieMae Layout</members>
         <members>FeedItem-Feed Item Layout</members>
         <members>Freddie_Mac__c-Freddie Mac Layout</members>
         <members>Genomic__c-Genomic Layout</members>
@@ -1002,6 +1005,7 @@
         <members>Demo Profile</members>
         <members>Demo Profile2</members>
         <members>External Identity User</members>
+        <members>FannieMae CP</members>
         <members>Force%2Ecom - App Subscription User</members>
         <members>Force%2Ecom - Free User</members>
         <members>Genomic CP</members>
