@@ -463,6 +463,7 @@
         <members>FannieMae__c.Dec_5_test__c</members>
         <members>FannieMae__c.FannieMae_Picklist__c</members>
         <members>Freddie_Mac__c.FreddieMac_Text__c</members>
+        <members>Fronde__c.Fronde_text__c</members>
         <members>Genomic__c.Genomic_picklist_field__c</members>
         <members>Goal.OrigGoalId__c</members>
         <members>HNI_Object2__c.FieldABC__c</members>
@@ -742,6 +743,7 @@
         <members>FeedItem</members>
         <members>ForecastingCategoryMapping</members>
         <members>Freddie_Mac__c</members>
+        <members>Fronde__c</members>
         <members>Genomic__c</members>
         <members>HNI_Object2__c</members>
         <members>HNI_Object__c</members>
@@ -890,6 +892,7 @@
         <members>FannieMae__c-FannieMae Layout</members>
         <members>FeedItem-Feed Item Layout</members>
         <members>Freddie_Mac__c-Freddie Mac Layout</members>
+        <members>Fronde__c-Fronde Layout</members>
         <members>Genomic__c-Genomic Layout</members>
         <members>Global-Global Layout</members>
         <members>HNI_Object2__c-HNI Object2 Layout</members>
@@ -1038,6 +1041,7 @@
         <members>FannieMae CP</members>
         <members>Force%2Ecom - App Subscription User</members>
         <members>Force%2Ecom - Free User</members>
+        <members>Fronde CP</members>
         <members>Genomic CP</members>
         <members>Gold Partner User</members>
         <members>High Volume Customer Portal User</members>

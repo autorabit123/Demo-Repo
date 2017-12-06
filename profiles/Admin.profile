@@ -1107,6 +1107,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Fronde__c.Fronde_text__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Genomic__c.Genomic_picklist_field__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1940,6 +1945,9 @@
         <layout>Freddie_Mac__c-Freddie Mac Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Fronde__c-Fronde Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Genomic__c-Genomic Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -2294,6 +2302,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>Freddie_Mac__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Fronde__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
