@@ -1018,6 +1018,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>Demo_Test_object__c.Field_A__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Demo_object__c.Demo_Picklist_field__c</field>
         <readable>false</readable>
@@ -1890,6 +1895,9 @@
         <layout>Demo_AR__c-Demo AR Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Demo_Test_object__c-Demo Test object Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Demo_object__c-Demo object Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -2211,6 +2219,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>Demo_AR__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Demo_Test_object__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
