@@ -455,6 +455,7 @@
         <members>Event.Type</members>
         <members>Event.WhatId</members>
         <members>Event.WhoId</members>
+        <members>FannieMae__c.Dec_5_test__c</members>
         <members>FannieMae__c.FannieMae_Picklist__c</members>
         <members>Freddie_Mac__c.FreddieMac_Text__c</members>
         <members>Genomic__c.Genomic_picklist_field__c</members>
