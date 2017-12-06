@@ -375,6 +375,7 @@
         <members>DandBCompany.UsTaxId</members>
         <members>DandBCompany.WomenOwned</members>
         <members>DandBCompany.YearStarted</members>
+        <members>Demo_Test_object__c.Field_A__c</members>
         <members>DuplicateRecordItem.DuplicateRecordSetId</members>
         <members>DuplicateRecordItem.RecordId</members>
         <members>DuplicateRecordSet.DuplicateRuleId</members>
@@ -641,6 +642,7 @@
         <members>Contract</members>
         <members>ContractContactRole</members>
         <members>DandBCompany</members>
+        <members>Demo_Test_object__c</members>
         <members>DuplicateRecordItem</members>
         <members>DuplicateRecordSet</members>
         <members>EmailMessage</members>
@@ -752,6 +754,7 @@
         <members>ContentVersion-Content Version Layout</members>
         <members>Contract-Contract Layout</members>
         <members>DandBCompany-D%26B Company Layout</members>
+        <members>Demo_Test_object__c-Demo Test object Layout</members>
         <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
         <members>EmailMessage-Email Message Layout</members>
         <members>Employee__c-Employee Layout</members>
@@ -872,6 +875,7 @@
         <members>Customer Community User</members>
         <members>Customer Portal Manager Custom</members>
         <members>Customer Portal Manager Standard</members>
+        <members>Demo Test Profile</members>
         <members>External Identity User</members>
         <members>Force%2Ecom - App Subscription User</members>
         <members>Force%2Ecom - Free User</members>
@@ -899,6 +903,7 @@
     </types>
     <types>
         <members>Clone_profile_profilePasswordPolicy1497587109569</members>
+        <members>Demo_Test_Profile_profilePasswordPolicy1512543966434</members>
         <members>June_21_profile_profilePasswordPolicy1498072654272</members>
         <members>PT1_profilePasswordPolicy1500499593077</members>
         <members>PT4_profilePasswordPolicy1497586125952</members>
@@ -909,6 +914,7 @@
     </types>
     <types>
         <members>Clone_profile_profileSessionSetting1497587109709</members>
+        <members>Demo_Test_Profile_profileSessionSetting1512543966596</members>
         <members>June_21_profile_profileSessionSetting1498072654595</members>
         <members>PT1_profileSessionSetting1500499593275</members>
         <members>PT4_profileSessionSetting1497586126118</members>
