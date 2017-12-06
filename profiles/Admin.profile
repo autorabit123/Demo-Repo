@@ -1087,6 +1087,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>FannieMae__c.Dec_5_test__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>FannieMae__c.FannieMae_Picklist__c</field>
         <readable>true</readable>
     </fieldPermissions>
