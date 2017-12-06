@@ -371,6 +371,17 @@
         <members>DandBCompany.UsTaxId</members>
         <members>DandBCompany.WomenOwned</members>
         <members>DandBCompany.YearStarted</members>
+        <members>Demo2__c.Type__c</members>
+        <members>Demo3__c.Demo_Title__c</members>
+        <members>Demo3__c.Features__c</members>
+        <members>Demo3__c.Presenter_Email__c</members>
+        <members>Demo3__c.Requirement__c</members>
+        <members>Demo3__c.Type_of_Demo__c</members>
+        <members>Demo_AR__c.Astellas_Field_A__c</members>
+        <members>Demo_AR__c.Astellas_Field_B__c</members>
+        <members>Demo_Test_object__c.Field_A__c</members>
+        <members>Demo_object__c.Demo_Picklist_field__c</members>
+        <members>Demo_object__c.Industry__c</members>
         <members>DuplicateRecordItem.DuplicateRecordSetId</members>
         <members>DuplicateRecordItem.RecordId</members>
         <members>DuplicateRecordSet.DuplicateRuleId</members>
@@ -634,6 +645,11 @@
         <members>Contract</members>
         <members>ContractContactRole</members>
         <members>DandBCompany</members>
+        <members>Demo2__c</members>
+        <members>Demo3__c</members>
+        <members>Demo_AR__c</members>
+        <members>Demo_Test_object__c</members>
+        <members>Demo_object__c</members>
         <members>DuplicateRecordItem</members>
         <members>DuplicateRecordSet</members>
         <members>EmailMessage</members>
@@ -743,6 +759,11 @@
         <members>ContentVersion-Content Version Layout</members>
         <members>Contract-Contract Layout</members>
         <members>DandBCompany-D%26B Company Layout</members>
+        <members>Demo2__c-Demo2 Layout</members>
+        <members>Demo3__c-Demo3 Layout</members>
+        <members>Demo_AR__c-Demo AR Layout</members>
+        <members>Demo_Test_object__c-Demo Test object Layout</members>
+        <members>Demo_object__c-Demo object Layout</members>
         <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
         <members>EmailMessage-Email Message Layout</members>
         <members>Employee__c-Employee Layout</members>
@@ -863,6 +884,9 @@
         <members>Customer Community User</members>
         <members>Customer Portal Manager Custom</members>
         <members>Customer Portal Manager Standard</members>
+        <members>Demo Profile</members>
+        <members>Demo Profile2</members>
+        <members>Demo Test Profile</members>
         <members>External Identity User</members>
         <members>Force%2Ecom - App Subscription User</members>
         <members>Force%2Ecom - Free User</members>
