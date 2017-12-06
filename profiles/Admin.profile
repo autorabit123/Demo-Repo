@@ -841,17 +841,12 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>DF_17__c.Field_A__c</field>
+        <field>Demo_Test_object__c.Field_A__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>DF_17__c.Field_B__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>DF_17__c.Field_C__c</field>
+        <field>Employee__c.Age__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -1506,19 +1501,7 @@
         <layout>DandBCompany-D%26B Company Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Demo2__c-Demo2 Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Demo3__c-Demo3 Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Demo_AR__c-Demo AR Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Demo_Test_object__c-Demo Test object Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Demo_object__c-Demo object Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>DuplicateRecordSet-Duplicate Record Set Layout</layout>
@@ -1697,7 +1680,16 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
-        <object>Demo2__c</object>
+        <object>Demo_Test_object__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>DuplicateRecordSet</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
