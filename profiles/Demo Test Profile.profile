@@ -15,7 +15,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
+        <editable>false</editable>
         <field>Demo_Test_object__c.Field_A__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -23,11 +23,11 @@
         <layout>Demo_Test_object__c-Demo Test object Layout</layout>
     </layoutAssignments>
     <objectPermissions>
-        <allowCreate>true</allowCreate>
-        <allowDelete>true</allowDelete>
-        <allowEdit>true</allowEdit>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
         <allowRead>true</allowRead>
-        <modifyAllRecords>true</modifyAllRecords>
+        <modifyAllRecords>false</modifyAllRecords>
         <object>Demo_Test_object__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
