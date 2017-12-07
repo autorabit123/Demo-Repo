@@ -412,6 +412,7 @@
         <members>Demo_AR__c.Astellas_Field_A__c</members>
         <members>Demo_AR__c.Astellas_Field_B__c</members>
         <members>Demo_Test_object__c.December__c</members>
+        <members>Demo_Test_object__c.FannieMae__c</members>
         <members>Demo_Test_object__c.Field_A__c</members>
         <members>Demo_Test_object__c.Picklist__c</members>
         <members>Demo_object__c.Demo_Picklist_field__c</members>
