@@ -109,6 +109,7 @@
         <members>AccountContactRole.Role</members>
         <members>Ashwin__c.Ash_Text__c</members>
         <members>Ashwin__c.Ash_picklist__c</members>
+        <members>Ashwin__c.Vicky_text__c</members>
         <members>Asset.AccountId</members>
         <members>Asset.AssetLevel</members>
         <members>Asset.AssetProvidedById</members>
