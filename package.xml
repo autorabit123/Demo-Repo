@@ -411,7 +411,9 @@
         <members>Demo3__c.Type_of_Demo__c</members>
         <members>Demo_AR__c.Astellas_Field_A__c</members>
         <members>Demo_AR__c.Astellas_Field_B__c</members>
+        <members>Demo_Test_object__c.December__c</members>
         <members>Demo_Test_object__c.Field_A__c</members>
+        <members>Demo_Test_object__c.Picklist__c</members>
         <members>Demo_object__c.Demo_Picklist_field__c</members>
         <members>Demo_object__c.Industry__c</members>
         <members>DuplicateRecordItem.DuplicateRecordSetId</members>
@@ -1031,6 +1033,14 @@
         <members>StandardAul</members>
         <members>Work%2Ecom Only User</members>
         <name>Profile</name>
+    </types>
+    <types>
+        <members>Demo_Test_Profile_profilePasswordPolicy1512670035737</members>
+        <name>ProfilePasswordPolicy</name>
+    </types>
+    <types>
+        <members>Demo_Test_Profile_profileSessionSetting1512670035999</members>
+        <name>ProfileSessionSetting</name>
     </types>
     <types>
         <members>Case.NewChildCase</members>
