@@ -407,6 +407,7 @@
         <members>DandBCompany.UsTaxId</members>
         <members>DandBCompany.WomenOwned</members>
         <members>DandBCompany.YearStarted</members>
+        <members>December__c.Dec_text__c</members>
         <members>Demo2__c.Type__c</members>
         <members>Demo3__c.Demo_Title__c</members>
         <members>Demo3__c.Features__c</members>
@@ -731,6 +732,7 @@
         <members>ContractContactRole</members>
         <members>DF_17__c</members>
         <members>DandBCompany</members>
+        <members>December__c</members>
         <members>Demo2__c</members>
         <members>Demo3__c</members>
         <members>Demo_AR__c</members>
@@ -883,6 +885,7 @@
         <members>Contract-Contract Layout</members>
         <members>DF_17__c-DF 17 Layout</members>
         <members>DandBCompany-D%26B Company Layout</members>
+        <members>December__c-December Layout</members>
         <members>Demo2__c-Demo2 Layout</members>
         <members>Demo3__c-Demo3 Layout</members>
         <members>Demo_AR__c-Demo AR Layout</members>

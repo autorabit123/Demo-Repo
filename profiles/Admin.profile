@@ -996,6 +996,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>December__c.Dec_text__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Demo2__c.Type__c</field>
         <readable>false</readable>
@@ -1919,6 +1924,9 @@
         <layout>DandBCompany-D%26B Company Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>December__c-December Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Demo2__c-Demo2 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -2231,6 +2239,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>DandBCompany</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>December__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
