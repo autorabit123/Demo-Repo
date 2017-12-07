@@ -107,6 +107,8 @@
         <members>AccountCleanInfo.Industry</members>
         <members>AccountCleanInfo.Ownership</members>
         <members>AccountContactRole.Role</members>
+        <members>Ashwin__c.Ash_Text__c</members>
+        <members>Ashwin__c.Ash_picklist__c</members>
         <members>Asset.AccountId</members>
         <members>Asset.AssetLevel</members>
         <members>Asset.AssetProvidedById</members>
@@ -709,6 +711,7 @@
         <members>AccountCleanInfo</members>
         <members>AccountContactRole</members>
         <members>Activity</members>
+        <members>Ashwin__c</members>
         <members>Asset</members>
         <members>AssetRelationship</members>
         <members>AssistantProgress</members>
@@ -854,6 +857,7 @@
         <members>Account-Account (Sales) Layout</members>
         <members>Account-Account (Support) Layout</members>
         <members>Account-Account Layout</members>
+        <members>Ashwin__c-Ashwin Layout</members>
         <members>Asset-Asset Layout</members>
         <members>August_Demo__c-August Demo Layout</members>
         <members>AutoRABIT_Demo__c-AutoRABIT Demo Layout</members>
