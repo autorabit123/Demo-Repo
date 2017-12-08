@@ -96,6 +96,16 @@
         </valueSet>
     </fields>
     <fields>
+        <fullName>Leela_text__c</fullName>
+        <externalId>false</externalId>
+        <label>Leela text</label>
+        <length>250</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Vicky_text__c</fullName>
         <externalId>false</externalId>
         <label>Vicky text</label>
