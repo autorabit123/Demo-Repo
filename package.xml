@@ -474,6 +474,10 @@
         <members>HNI_Object__c.HNI_Text_Field__c</members>
         <members>Idea.Categories</members>
         <members>Idea.Status</members>
+        <members>Jira_Obj__c.Dec_11_test1__c</members>
+        <members>Jira_Obj__c.Jira_2__c</members>
+        <members>Jira_Obj__c.Jira_field__c</members>
+        <members>Jira_Obj__c.userstory_DF__c</members>
         <members>July3__c.July3_field__c</members>
         <members>June_15__c.June_15_Field2__c</members>
         <members>June_15__c.June_15_field__c</members>
@@ -751,6 +755,7 @@
         <members>HNI_Object2__c</members>
         <members>HNI_Object__c</members>
         <members>Idea</members>
+        <members>Jira_Obj__c</members>
         <members>July3__c</members>
         <members>June_15__c</members>
         <members>Lead</members>
@@ -892,6 +897,7 @@
         <members>HNI_Object2__c-HNI Object2 Layout</members>
         <members>HNI_Object__c-HNI Object Layout</members>
         <members>Idea-Idea Layout</members>
+        <members>Jira_Obj__c-Jira Obj Layout</members>
         <members>July3__c-July3 Layout</members>
         <members>June_15__c-June 15 Layout</members>
         <members>Lead-Lead %28Marketing%29 Layout</members>
