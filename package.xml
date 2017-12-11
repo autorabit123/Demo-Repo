@@ -479,6 +479,7 @@
         <members>HNI_Object__c.HNI_Text_Field__c</members>
         <members>Idea.Categories</members>
         <members>Idea.Status</members>
+        <members>Jira_Obj__c.Dec_11_test1__c</members>
         <members>Jira_Obj__c.Jira_2__c</members>
         <members>Jira_Obj__c.Jira_field__c</members>
         <members>Jira_Obj__c.userstory_DF__c</members>
