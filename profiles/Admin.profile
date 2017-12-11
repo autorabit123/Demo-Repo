@@ -1177,6 +1177,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Jira_Obj__c.userstory_DF__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>July3__c.July3_field__c</field>
         <readable>true</readable>
     </fieldPermissions>

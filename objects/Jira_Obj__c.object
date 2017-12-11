@@ -71,6 +71,16 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>userstory_DF__c</fullName>
+        <externalId>false</externalId>
+        <label>DF userstory3</label>
+        <length>250</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Jira Obj</label>
     <nameField>
         <label>Jira Obj Name</label>
