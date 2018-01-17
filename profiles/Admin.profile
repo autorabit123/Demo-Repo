@@ -287,6 +287,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>All_tests_Admin_profile__c.Date__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Ashwin__c.Ash_Text__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1902,6 +1907,9 @@
         <layout>Account-Account Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>All_tests_Admin_profile__c-All tests Admin profile Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Ashwin__c-Ashwin Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -2136,6 +2144,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>Account</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>All_tests_Admin_profile__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
