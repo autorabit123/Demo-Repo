@@ -431,6 +431,7 @@
         <members>DuplicateRecordItem.RecordId</members>
         <members>DuplicateRecordSet.DuplicateRuleId</members>
         <members>DuplicateRecordSet.RecordCount</members>
+        <members>EagleView__c.Text1__c</members>
         <members>EmailMessage.BccAddress</members>
         <members>EmailMessage.CcAddress</members>
         <members>EmailMessage.FromAddress</members>
@@ -752,6 +753,7 @@
         <members>Demo_object__c</members>
         <members>DuplicateRecordItem</members>
         <members>DuplicateRecordSet</members>
+        <members>EagleView__c</members>
         <members>EmailMessage</members>
         <members>Employee__c</members>
         <members>Event</members>
@@ -908,6 +910,7 @@
         <members>Demo_Test_object__c-Demo Test object Layout</members>
         <members>Demo_object__c-Demo object Layout</members>
         <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
+        <members>EagleView__c-EagleView Layout</members>
         <members>EmailMessage-Email Message Layout</members>
         <members>Employee__c-Employee Layout</members>
         <members>Event-Event Layout</members>
