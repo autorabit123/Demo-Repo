@@ -1182,6 +1182,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Jefferie__c.J_Text__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Jira_Obj__c.Dec_11_test1__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -2040,6 +2045,9 @@
         <layout>Jan_2018_test__c-Jan 2018 test Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Jefferie__c-Jefferie Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Jira_Obj__c-Jira Obj Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -2466,6 +2474,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>Jan_2018_test__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Jefferie__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
