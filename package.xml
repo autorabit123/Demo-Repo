@@ -477,6 +477,7 @@
         <members>Idea.Categories</members>
         <members>Idea.Status</members>
         <members>Jan_2018_test__c.Jan_17_T1__c</members>
+        <members>Jefferie__c.J_Text__c</members>
         <members>Jira_Obj__c.Dec_11_test1__c</members>
         <members>Jira_Obj__c.Jira_2__c</members>
         <members>Jira_Obj__c.Jira_field__c</members>
@@ -762,6 +763,7 @@
         <members>HNI_Object__c</members>
         <members>Idea</members>
         <members>Jan_2018_test__c</members>
+        <members>Jefferie__c</members>
         <members>Jira_Obj__c</members>
         <members>July3__c</members>
         <members>June_15__c</members>
@@ -908,6 +910,7 @@
         <members>HNI_Object__c-HNI Object Layout</members>
         <members>Idea-Idea Layout</members>
         <members>Jan_2018_test__c-Jan 2018 test Layout</members>
+        <members>Jefferie__c-Jefferie Layout</members>
         <members>Jira_Obj__c-Jira Obj Layout</members>
         <members>July3__c-July3 Layout</members>
         <members>June_15__c-June 15 Layout</members>
