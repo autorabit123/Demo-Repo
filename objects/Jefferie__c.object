@@ -61,6 +61,16 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>Jan_21__c</fullName>
+        <externalId>false</externalId>
+        <label>Jan 21</label>
+        <length>250</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Jefferie</label>
     <nameField>
         <label>Jefferie Name</label>
