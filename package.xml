@@ -11,7 +11,10 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>AccountTrigger1</members>
+        <members>ContactTrigger1</members>
         <members>HelloWorldTrigger</members>
+        <members>Leadtrigger1</members>
         <name>ApexTrigger</name>
     </types>
     <types>
