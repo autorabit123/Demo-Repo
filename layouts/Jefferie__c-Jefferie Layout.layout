@@ -18,6 +18,10 @@
                 <behavior>Edit</behavior>
                 <field>Jan_21__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Suleman_test__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

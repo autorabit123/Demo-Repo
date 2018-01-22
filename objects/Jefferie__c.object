@@ -71,6 +71,16 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>Suleman_test__c</fullName>
+        <externalId>false</externalId>
+        <label>Suleman test</label>
+        <length>250</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Jefferie</label>
     <nameField>
         <label>Jefferie Name</label>
