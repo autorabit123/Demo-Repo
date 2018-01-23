@@ -449,6 +449,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>AutoRABIT_Demo__c.Demo_type__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Bayers__c.Bayers_text__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Book__c.Price__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1929,6 +1939,9 @@
         <layout>AutoRABIT_Demo__c-AutoRABIT Demo Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Bayers__c-Bayers Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Book__c-Book Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -2199,6 +2212,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>AutoRABIT_Demo__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Bayers__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
