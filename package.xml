@@ -154,6 +154,7 @@
         <members>August_Demo__c.Type_of_Demo__c</members>
         <members>AutoRABIT_Demo__c.Demo_text__c</members>
         <members>AutoRABIT_Demo__c.Demo_type__c</members>
+        <members>Bayers__c.Bayers_text__c</members>
         <members>Book__c.Price__c</members>
         <members>CBN__c.CBN_picklist__c</members>
         <members>CI_Demo__c.Type__c</members>
@@ -733,6 +734,7 @@
         <members>AssistantProgress</members>
         <members>August_Demo__c</members>
         <members>AutoRABIT_Demo__c</members>
+        <members>Bayers__c</members>
         <members>Book__c</members>
         <members>CBN__c</members>
         <members>CI_Demo__c</members>
@@ -882,6 +884,7 @@
         <members>Asset-Asset Layout</members>
         <members>August_Demo__c-August Demo Layout</members>
         <members>AutoRABIT_Demo__c-AutoRABIT Demo Layout</members>
+        <members>Bayers__c-Bayers Layout</members>
         <members>Book__c-Book Layout</members>
         <members>CBN__c-CBN Layout</members>
         <members>CI_Demo__c-CI Demo Layout</members>
