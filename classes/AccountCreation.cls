@@ -1,9 +1,9 @@
 public Class AccountCreation
 {
-public Account createAccount(String name) //Method to Create Account - Bayers demo jan 23
+public Account createAccount(String name) //Method to Create Account 
 {
 
-//This is an Apex class - Jefferies Demo 12:24
+//This is an Apex class 
 Account acc = new Account(); 
 acc.Name = name;
 system.debug('Test');

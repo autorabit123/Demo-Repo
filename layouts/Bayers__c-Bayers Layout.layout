@@ -14,6 +14,10 @@
                 <behavior>Edit</behavior>
                 <field>Bayers_text__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Jan_25_test1__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

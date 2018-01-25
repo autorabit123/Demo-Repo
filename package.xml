@@ -155,6 +155,7 @@
         <members>AutoRABIT_Demo__c.Demo_text__c</members>
         <members>AutoRABIT_Demo__c.Demo_type__c</members>
         <members>Bayers__c.Bayers_text__c</members>
+        <members>Bayers__c.Jan_25_test1__c</members>
         <members>Book__c.Price__c</members>
         <members>CBN__c.CBN_picklist__c</members>
         <members>CI_Demo__c.Type__c</members>
