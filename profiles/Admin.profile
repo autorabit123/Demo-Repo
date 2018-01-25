@@ -459,6 +459,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Bayers__c.Jan_25_test1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Book__c.Price__c</field>
         <readable>true</readable>
     </fieldPermissions>
