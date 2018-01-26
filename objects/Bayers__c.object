@@ -55,7 +55,7 @@
         <fullName>Bayers_text__c</fullName>
         <externalId>false</externalId>
         <label>Bayers text</label>
-        <length>250</length>
+        <length>100</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
@@ -65,7 +65,7 @@
         <fullName>Jan_25_test1__c</fullName>
         <externalId>false</externalId>
         <label>Jan 25 test1</label>
-        <length>250</length>
+        <length>100</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
