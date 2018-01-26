@@ -475,6 +475,7 @@
         <members>Event.Type</members>
         <members>Event.WhatId</members>
         <members>Event.WhoId</members>
+        <members>FM__c.FM_text__c</members>
         <members>FannieMae__c.Dec_5_test__c</members>
         <members>FannieMae__c.FannieMae_Picklist__c</members>
         <members>Freddie_Mac__c.FreddieMac_Text__c</members>
@@ -767,6 +768,7 @@
         <members>Employee__c</members>
         <members>Event</members>
         <members>ExchangeUserMapping</members>
+        <members>FM__c</members>
         <members>FannieMae__c</members>
         <members>FeedItem</members>
         <members>ForecastingCategoryMapping</members>
@@ -925,6 +927,7 @@
         <members>EmailMessage-Email Message Layout</members>
         <members>Employee__c-Employee Layout</members>
         <members>Event-Event Layout</members>
+        <members>FM__c-FM Layout</members>
         <members>FannieMae__c-FannieMae Layout</members>
         <members>FeedItem-Feed Item Layout</members>
         <members>Freddie_Mac__c-Freddie Mac Layout</members>
