@@ -475,6 +475,7 @@
         <members>Event.Type</members>
         <members>Event.WhatId</members>
         <members>Event.WhoId</members>
+        <members>FM__c.FM_text_2__c</members>
         <members>FM__c.FM_text__c</members>
         <members>FannieMae__c.Dec_5_test__c</members>
         <members>FannieMae__c.FannieMae_Picklist__c</members>
