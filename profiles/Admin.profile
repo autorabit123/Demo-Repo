@@ -1147,6 +1147,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>FM__c.FM_text_3__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>FM__c.FM_text__c</field>
         <readable>true</readable>
     </fieldPermissions>
