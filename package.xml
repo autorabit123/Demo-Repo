@@ -431,6 +431,17 @@
         <members>Event.Type</members>
         <members>Event.WhatId</members>
         <members>Event.WhoId</members>
+        <members>FM__c.FM_text_2__c</members>
+        <members>FM__c.FM_text__c</members>
+        <members>FannieMae__c.Dec_5_test__c</members>
+        <members>FannieMae__c.FannieMae_Picklist__c</members>
+        <members>Freddie_Mac__c.FreddieMac_Text__c</members>
+        <members>Fronde__c.Fronde_text__c</members>
+        <members>Genomic__c.Genomic_picklist_field__c</members>
+        <members>Goal.OrigGoalId__c</members>
+        <members>HNI_Object2__c.FieldABC__c</members>
+        <members>HNI_Object__c.HNI_Picklist__c</members>
+        <members>HNI_Object__c.HNI_Text_Field__c</members>
         <members>Idea.Categories</members>
         <members>Idea.Status</members>
         <members>July3__c.July3_field__c</members>
