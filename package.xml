@@ -475,6 +475,7 @@
         <members>Event.Type</members>
         <members>Event.WhatId</members>
         <members>Event.WhoId</members>
+        <members>FM__c.FM_Text_4__c</members>
         <members>FM__c.FM_text_2__c</members>
         <members>FM__c.FM_text_3__c</members>
         <members>FM__c.FM_text__c</members>
