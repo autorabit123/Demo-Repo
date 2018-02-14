@@ -487,6 +487,7 @@
         <members>Fronde__c.Fronde_text__c</members>
         <members>Genomic__c.Genomic_picklist_field__c</members>
         <members>Goal.OrigGoalId__c</members>
+        <members>HCSC__c.HCSC_text__c</members>
         <members>HNI_Object2__c.FieldABC__c</members>
         <members>HNI_Object__c.HNI_Picklist__c</members>
         <members>HNI_Object__c.HNI_Text_Field__c</members>
@@ -782,6 +783,7 @@
         <members>Freddie_Mac__c</members>
         <members>Fronde__c</members>
         <members>Genomic__c</members>
+        <members>HCSC__c</members>
         <members>HNI_Object2__c</members>
         <members>HNI_Object__c</members>
         <members>Idea</members>
@@ -943,6 +945,7 @@
         <members>Fronde__c-Fronde Layout</members>
         <members>Genomic__c-Genomic Layout</members>
         <members>Global-Global Layout</members>
+        <members>HCSC__c-HCSC Layout</members>
         <members>HNI_Object2__c-HNI Object2 Layout</members>
         <members>HNI_Object__c-HNI Object Layout</members>
         <members>Idea-Idea Layout</members>
