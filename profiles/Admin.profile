@@ -482,6 +482,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Brian__c.Text2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>CBN__c.CBN_picklist__c</field>
         <readable>true</readable>
     </fieldPermissions>
