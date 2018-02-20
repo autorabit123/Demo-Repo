@@ -45,6 +45,7 @@
     <deploymentStatus>Deployed</deploymentStatus>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
+    <enableChangeDataCapture>false</enableChangeDataCapture>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
@@ -52,31 +53,21 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
-        <fullName>Feb20__c</fullName>
+        <fullName>HF_text__c</fullName>
         <externalId>false</externalId>
-        <label>Feb20</label>
+        <label>HF text</label>
         <length>250</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
         <unique>false</unique>
     </fields>
-    <fields>
-        <fullName>Text__c</fullName>
-        <externalId>false</externalId>
-        <label>Text</label>
-        <length>250</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <label>Feb Demo</label>
+    <label>Healthfirst object</label>
     <nameField>
-        <label>Feb Demo Name</label>
+        <label>Healthfirst object Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Feb Demo</pluralLabel>
+    <pluralLabel>Healthfirst objects</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

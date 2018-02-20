@@ -186,9 +186,19 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>false</editable>
+        <field>Feb_Demo__c.Feb20__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
         <field>Genomic__c.Genomic_picklist_field__c</field>
         <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Healthfirst_object__c.HF_text__c</field>
+        <readable>false</readable>
     </fieldPermissions>
     <layoutAssignments>
         <layout>Account-Account %28Marketing%29 Layout</layout>
@@ -198,7 +208,16 @@
         <layout>Account-Account Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Feb_Demo__c-Feb Demo Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Genomic__c-Genomic Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Healthfirst_object__c-Healthfirst object Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>ScorecardAssociation-Scorecard Association Layout</layout>
     </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
@@ -215,7 +234,25 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
+        <object>Feb_Demo__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
         <object>Genomic__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Healthfirst_object__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <recordTypeVisibilities>

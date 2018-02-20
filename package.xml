@@ -483,6 +483,7 @@
         <members>FM__c.FM_text__c</members>
         <members>FannieMae__c.Dec_5_test__c</members>
         <members>FannieMae__c.FannieMae_Picklist__c</members>
+        <members>Feb_Demo__c.Feb20__c</members>
         <members>Feb_Demo__c.Text__c</members>
         <members>Freddie_Mac__c.FreddieMac_Text__c</members>
         <members>Fronde__c.Fronde_text__c</members>
@@ -492,6 +493,7 @@
         <members>HNI_Object2__c.FieldABC__c</members>
         <members>HNI_Object__c.HNI_Picklist__c</members>
         <members>HNI_Object__c.HNI_Text_Field__c</members>
+        <members>Healthfirst_object__c.HF_text__c</members>
         <members>Idea.Categories</members>
         <members>Idea.Status</members>
         <members>Jan_2018_test__c.Jan_17_T1__c</members>
@@ -788,6 +790,7 @@
         <members>HCSC__c</members>
         <members>HNI_Object2__c</members>
         <members>HNI_Object__c</members>
+        <members>Healthfirst_object__c</members>
         <members>Idea</members>
         <members>Jan_2018_test__c</members>
         <members>Jefferie__c</members>
@@ -884,6 +887,10 @@
         <name>HomePageLayout</name>
     </types>
     <types>
+        <members>sf_com_apps</members>
+        <name>InstalledPackage</name>
+    </types>
+    <types>
         <members>AR_Genomic_obj__c-AR Genomic obj Layout</members>
         <members>AWS_Obj__c-AWS Obj Layout</members>
         <members>Abbvie_obj__c-Abbvie obj Layout</members>
@@ -951,6 +958,7 @@
         <members>HCSC__c-HCSC Layout</members>
         <members>HNI_Object2__c-HNI Object2 Layout</members>
         <members>HNI_Object__c-HNI Object Layout</members>
+        <members>Healthfirst_object__c-Healthfirst object Layout</members>
         <members>Idea-Idea Layout</members>
         <members>Jan_2018_test__c-Jan 2018 test Layout</members>
         <members>Jefferie__c-Jefferie Layout</members>
@@ -988,6 +996,7 @@
         <members>Product2-Product Layout</members>
         <members>RiverBed__c-RiverBed Layout</members>
         <members>Scorecard-Scorecard Layout</members>
+        <members>ScorecardAssociation-Scorecard Association Layout</members>
         <members>ScorecardMetric-Scorecard Metric Layout</members>
         <members>Sep_Demo__c-Sep Demo Layout</members>
         <members>Solution-Solution Layout</members>
@@ -1163,6 +1172,12 @@
     <types>
         <members>ApexDevNet</members>
         <name>RemoteSiteSetting</name>
+    </types>
+    <types>
+        <members>unfiled$public/High_Value_Opportunities</members>
+        <members>unfiled$public/Matrix_of_Leads</members>
+        <members>unfiled$public/Opportunities_by_Type</members>
+        <name>Report</name>
     </types>
     <types>
         <members>CEO</members>

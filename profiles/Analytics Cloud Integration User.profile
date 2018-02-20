@@ -56,6 +56,10 @@
         <visible>false</visible>
     </applicationVisibilities>
     <classAccesses>
+        <apexClass>AccountCreation</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>CreateAccountClass</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -959,6 +963,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Feb_Demo__c.Feb20__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Healthfirst_object__c.HF_text__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Idea.Attachment</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -1623,10 +1637,16 @@
         <layout>Event-Event Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Feb_Demo__c-Feb Demo Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>FeedItem-Feed Item Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Global-Global Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Healthfirst_object__c-Healthfirst object Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Idea-Idea Layout</layout>
@@ -1669,6 +1689,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Product2-Product Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>ScorecardAssociation-Scorecard Association Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Solution-Solution Layout</layout>
@@ -1845,6 +1868,24 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
         <object>Employee__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>Feb_Demo__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>Healthfirst_object__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
