@@ -480,8 +480,6 @@
         <members>FM__c.FM_text__c</members>
         <members>FannieMae__c.Dec_5_test__c</members>
         <members>FannieMae__c.FannieMae_Picklist__c</members>
-        <members>Feb_Demo__c.Feb20__c</members>
-        <members>Feb_Demo__c.Text__c</members>
         <members>Freddie_Mac__c.FreddieMac_Text__c</members>
         <members>Genomic__c.Genomic_picklist_field__c</members>
         <members>Goal.OrigGoalId__c</members>
@@ -1199,7 +1197,29 @@
         <name>Settings</name>
     </types>
     <types>
-        <members>Task.UpdateStatus_0.quickAction</members>
+        <members>Account</members>
+        <members>Asset</members>
+        <members>Book__c</members>
+        <members>CI_Demo__c</members>
+        <members>CI_Job__c</members>
+        <members>Campaign</members>
+        <members>Campsite__c</members>
+        <members>Case</members>
+        <members>Contact</members>
+        <members>Demo2__c</members>
+        <members>Demo3__c</members>
+        <members>Demo_object__c</members>
+        <members>Employee__c</members>
+        <members>July3__c</members>
+        <members>June_15__c</members>
+        <members>Lead</members>
+        <members>Opportunity</members>
+        <members>Order</members>
+        <members>Order_Management__c</members>
+        <members>Position__c</members>
+        <members>Test_Demo__c</members>
+        <members>User</members>
+        <members>Vehicle__c</members>
         <name>SharingRules</name>
     </types>
     <types>

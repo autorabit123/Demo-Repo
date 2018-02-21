@@ -51,26 +51,6 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <fields>
-        <fullName>Feb20__c</fullName>
-        <externalId>false</externalId>
-        <label>Feb20</label>
-        <length>250</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Text__c</fullName>
-        <externalId>false</externalId>
-        <label>Text</label>
-        <length>250</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
     <label>Feb Demo</label>
     <nameField>
         <label>Feb Demo Name</label>
