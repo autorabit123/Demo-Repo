@@ -483,8 +483,6 @@
         <members>FM__c.FM_text__c</members>
         <members>FannieMae__c.Dec_5_test__c</members>
         <members>FannieMae__c.FannieMae_Picklist__c</members>
-        <members>Feb_Demo__c.Feb20__c</members>
-        <members>Feb_Demo__c.Text__c</members>
         <members>Freddie_Mac__c.FreddieMac_Text__c</members>
         <members>Fronde__c.Fronde_text__c</members>
         <members>Genomic__c.Genomic_picklist_field__c</members>
@@ -897,9 +895,6 @@
         <members>Account-Account %28Marketing%29 Layout</members>
         <members>Account-Account %28Sales%29 Layout</members>
         <members>Account-Account %28Support%29 Layout</members>
-        <members>Account-Account (Marketing) Layout</members>
-        <members>Account-Account (Sales) Layout</members>
-        <members>Account-Account (Support) Layout</members>
         <members>Account-Account Layout</members>
         <members>All_tests_Admin_profile__c-All tests Admin profile Layout</members>
         <members>Ashwin__c-Ashwin Layout</members>
@@ -919,18 +914,12 @@
         <members>Case-Case %28Marketing%29 Layout</members>
         <members>Case-Case %28Sales%29 Layout</members>
         <members>Case-Case %28Support%29 Layout</members>
-        <members>Case-Case (Marketing) Layout</members>
-        <members>Case-Case (Sales) Layout</members>
-        <members>Case-Case (Support) Layout</members>
         <members>Case-Case Layout</members>
         <members>CaseClose-Close Case Layout</members>
         <members>Cisco__c-Cisco Layout</members>
         <members>Contact-Contact %28Marketing%29 Layout</members>
         <members>Contact-Contact %28Sales%29 Layout</members>
         <members>Contact-Contact %28Support%29 Layout</members>
-        <members>Contact-Contact (Marketing) Layout</members>
-        <members>Contact-Contact (Sales) Layout</members>
-        <members>Contact-Contact (Support) Layout</members>
         <members>Contact-Contact Layout</members>
         <members>ContentVersion-Content Version Layout</members>
         <members>Contract-Contract Layout</members>
@@ -968,9 +957,6 @@
         <members>Lead-Lead %28Marketing%29 Layout</members>
         <members>Lead-Lead %28Sales%29 Layout</members>
         <members>Lead-Lead %28Support%29 Layout</members>
-        <members>Lead-Lead (Marketing) Layout</members>
-        <members>Lead-Lead (Sales) Layout</members>
-        <members>Lead-Lead (Support) Layout</members>
         <members>Lead-Lead Layout</members>
         <members>Macro-Macro Layout</members>
         <members>Nielsen__c-Nielsen Layout</members>
@@ -982,9 +968,6 @@
         <members>Opportunity-Opportunity %28Marketing%29 Layout</members>
         <members>Opportunity-Opportunity %28Sales%29 Layout</members>
         <members>Opportunity-Opportunity %28Support%29 Layout</members>
-        <members>Opportunity-Opportunity (Marketing) Layout</members>
-        <members>Opportunity-Opportunity (Sales) Layout</members>
-        <members>Opportunity-Opportunity (Support) Layout</members>
         <members>Opportunity-Opportunity Layout</members>
         <members>OpportunityLineItem-Opportunity Product Layout</members>
         <members>Order-Order Layout</members>
@@ -1065,12 +1048,6 @@
         <members>User.AdminUsers</members>
         <members>User.AllUsers</members>
         <name>ListView</name>
-    </types>
-    <types>
-        <members>Account.Standard_Account_Match_Rule_v1_0</members>
-        <members>Contact.Standard_Contact_Match_Rule_v1_1</members>
-        <members>Lead.Standard_Lead_Match_Rule_v1_0</members>
-        <name>MatchingRule</name>
     </types>
     <types>
         <members>Garage_Developer</members>
@@ -1229,7 +1206,29 @@
         <name>Settings</name>
     </types>
     <types>
-        <members>Task.UpdateStatus_0.quickAction</members>
+        <members>Account</members>
+        <members>Asset</members>
+        <members>Book__c</members>
+        <members>CI_Demo__c</members>
+        <members>CI_Job__c</members>
+        <members>Campaign</members>
+        <members>Campsite__c</members>
+        <members>Case</members>
+        <members>Contact</members>
+        <members>Demo2__c</members>
+        <members>Demo3__c</members>
+        <members>Demo_object__c</members>
+        <members>Employee__c</members>
+        <members>July3__c</members>
+        <members>June_15__c</members>
+        <members>Lead</members>
+        <members>Opportunity</members>
+        <members>Order</members>
+        <members>Order_Management__c</members>
+        <members>Position__c</members>
+        <members>Test_Demo__c</members>
+        <members>User</members>
+        <members>Vehicle__c</members>
         <name>SharingRules</name>
     </types>
     <types>
