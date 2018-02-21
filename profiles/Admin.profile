@@ -1174,6 +1174,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Feb_Demo__c.Feb20__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Feb_Demo__c.Text__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1200,6 +1205,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>HNI_Object__c.HNI_Text_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Healthfirst_object__c.HF_text__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -2103,6 +2113,9 @@
         <layout>HNI_Object__c-HNI Object Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Healthfirst_object__c-Healthfirst object Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Idea-Idea Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -2173,6 +2186,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>RiverBed__c-RiverBed Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>ScorecardAssociation-Scorecard Association Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Sep_Demo__c-Sep Demo Layout</layout>
@@ -2559,6 +2575,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>HNI_Object__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Healthfirst_object__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
