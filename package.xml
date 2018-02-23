@@ -828,24 +828,6 @@
         <name>CustomObject</name>
     </types>
     <types>
-        <members>Book__c-en_US</members>
-        <members>CI_Demo__c-en_US</members>
-        <members>CI_Job__c-en_US</members>
-        <members>Campsite_Reservation__c-en_US</members>
-        <members>Campsite__c-en_US</members>
-        <members>Demo2__c-en_US</members>
-        <members>Demo3__c-en_US</members>
-        <members>Demo_object__c-en_US</members>
-        <members>Employee__c-en_US</members>
-        <members>July3__c-en_US</members>
-        <members>June_15__c-en_US</members>
-        <members>Order_Management__c-en_US</members>
-        <members>Position__c-en_US</members>
-        <members>Test_Demo__c-en_US</members>
-        <members>Vehicle__c-en_US</members>
-        <name>CustomObjectTranslation</name>
-    </types>
-    <types>
         <members>Position__c</members>
         <members>Test_Demo__c</members>
         <name>CustomTab</name>
@@ -1267,15 +1249,10 @@
         <name>StandardValueSet</name>
     </types>
     <types>
-        <members>Genomic__c.Genomic_validation</members>
         <members>Nov_test_2__c.Nov_test_validation_rule</members>
         <name>ValidationRule</name>
     </types>
     <types>
-        <members>Account.Billing</members>
-        <members>Campaign.ViewCampaignInfluenceReport</members>
-        <members>Case.UpsellCrosssellOpportunity</members>
-        <members>Contact.Google_Info</members>
         <members>Opportunity.DeliveryStatus</members>
         <name>WebLink</name>
     </types>
