@@ -1192,6 +1192,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Feb_Demo__c.Text_feb23__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Freddie_Mac__c.FreddieMac_Text__c</field>
         <readable>true</readable>
     </fieldPermissions>

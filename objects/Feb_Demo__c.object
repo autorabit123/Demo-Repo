@@ -51,6 +51,16 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>Text_feb23__c</fullName>
+        <externalId>false</externalId>
+        <label>Text feb23</label>
+        <length>250</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Feb Demo</label>
     <nameField>
         <label>Feb Demo Name</label>
