@@ -1181,6 +1181,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>Feb27_object__c.Feb27_field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Feb_Demo__c.Feb20__c</field>
         <readable>true</readable>
@@ -2110,6 +2115,9 @@
         <layout>FannieMae__c-FannieMae Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Feb27_object__c-Feb27 object Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Feb_Demo__c-Feb Demo Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -2551,6 +2559,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>FannieMae__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Feb27_object__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>

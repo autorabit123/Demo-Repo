@@ -199,6 +199,7 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Feb27_object__c</members>
         <members>Nielsen__c</members>
         <members>Nov_Demo__c</members>
         <members>Nov_test_2__c</members>
@@ -234,6 +235,10 @@
         <members>Position__c</members>
         <members>Test_Demo__c</members>
         <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Feb27_object__c-Feb27 object Layout</members>
+        <name>Layout</name>
     </types>
     <types>
         <members>Opportunity.AllOpportunities</members>
