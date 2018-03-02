@@ -1178,6 +1178,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>Feb27_object__c.March2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Feb_Demo__c.Feb20__c</field>
         <readable>true</readable>
