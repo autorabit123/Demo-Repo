@@ -1157,6 +1157,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>FM_March12__c.FM_test_demo__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>FM__c.FM_Text_4__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -2122,6 +2127,9 @@
         <layout>Event-Event Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>FM_March12__c-FM March12 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>FM__c-FM Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -2563,6 +2571,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>Employee__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>FM_March12__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>

@@ -14,6 +14,7 @@
     </types>
     <types>
         <members>Caeser__c.C_test_field__c</members>
+        <members>FM_March12__c.FM_test_demo__c</members>
         <members>Feb27_object__c.Feb27_field__c</members>
         <members>Feb27_object__c.March2__c</members>
         <members>Metric.OrigMetricId__c</members>
@@ -207,6 +208,7 @@
     </types>
     <types>
         <members>Caeser__c</members>
+        <members>FM_March12__c</members>
         <members>Feb27_object__c</members>
         <members>Nielsen__c</members>
         <members>Nov_Demo__c</members>
@@ -246,6 +248,7 @@
     </types>
     <types>
         <members>Caeser__c-Caeser Layout</members>
+        <members>FM_March12__c-FM March12 Layout</members>
         <members>Feb27_object__c-Feb27 object Layout</members>
         <name>Layout</name>
     </types>
