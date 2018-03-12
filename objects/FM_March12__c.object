@@ -45,18 +45,29 @@
     <deploymentStatus>Deployed</deploymentStatus>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
+    <enableChangeDataCapture>false</enableChangeDataCapture>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <label>Caeser</label>
+    <fields>
+        <fullName>FM_test_demo__c</fullName>
+        <externalId>false</externalId>
+        <label>FM test demo</label>
+        <length>20</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <label>FM March12</label>
     <nameField>
-        <label>Caeser Name</label>
+        <label>FM March12 Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Caesers</pluralLabel>
+    <pluralLabel>FM March12s</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
