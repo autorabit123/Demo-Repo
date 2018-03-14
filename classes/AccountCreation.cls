@@ -1,6 +1,4 @@
-// comment1
-// comment 2
-// comment 3
+
 public Class AccountCreation
 {
 public Account createAccount(String name) //Method to Create Account 

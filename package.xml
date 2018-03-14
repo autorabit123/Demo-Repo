@@ -163,6 +163,7 @@
         <members>CI_Demo__c.Type__c</members>
         <members>CI_Job__c.Alm_tool__c</members>
         <members>CI_Job__c.CI_Job_field__c</members>
+        <members>Caeser__c.Test987__c</members>
         <members>Campaign.ActualCost</members>
         <members>Campaign.AmountAllOpportunities</members>
         <members>Campaign.AmountWonOpportunities</members>
