@@ -546,7 +546,6 @@
         <members>Macro.Name</members>
         <members>Macro.OwnerId</members>
         <members>Metric.OrigMetricId__c</members>
-        <members>Mindbody__c.Test1__c</members>
         <members>Nielsen__c.Dec_4_text__c</members>
         <members>Nov_Demo__c.Mathwork_field_A__c</members>
         <members>Nov_Demo__c.Mathwork_field_B__c</members>
