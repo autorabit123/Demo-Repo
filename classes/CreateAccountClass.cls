@@ -2,7 +2,7 @@ public Class CreateAccountClass
 { 
     public Account CreateRecord(String name)
     { 
-        //Create a new account - Demo for Alm workitem 
+        //14th may 2.12pm
         Account acc = new Account(); 
         acc.Name = name; 
         acc.AccountNumber = '1234';
