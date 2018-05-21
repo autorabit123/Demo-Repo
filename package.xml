@@ -545,6 +545,7 @@
         <members>Macro.Description</members>
         <members>Macro.Name</members>
         <members>Macro.OwnerId</members>
+        <members>May__c.Email_id__c</members>
         <members>May__c.Status__c</members>
         <members>Metric.OrigMetricId__c</members>
         <members>Nielsen__c.Dec_4_text__c</members>

@@ -1457,6 +1457,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>May__c.Email_id__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>May__c.Status__c</field>
         <readable>true</readable>
     </fieldPermissions>
