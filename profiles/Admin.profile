@@ -1292,6 +1292,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Jeweller__c.Test1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Jira_Obj__c.Dec_11_test1__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -2203,6 +2208,9 @@
         <layout>Jefferie__c-Jefferie Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Jeweller__c-Jeweller Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Jira_Obj__c-Jira Obj Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -2740,6 +2748,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>Jefferie__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Jeweller__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
