@@ -1084,6 +1084,7 @@
         <members>Garage_Developer</members>
         <members>Insales_Permission_Set</members>
         <members>PM_to_Leads_for_Sales_Profile</members>
+        <members>TestA</members>
         <members>test</members>
         <name>PermissionSet</name>
     </types>
