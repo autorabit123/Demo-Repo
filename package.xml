@@ -489,6 +489,7 @@
         <members>Feb27_object__c.Feb27_field__c</members>
         <members>Feb27_object__c.March2__c</members>
         <members>Fedex__c.Test1__c</members>
+        <members>Fitbit__c.FT_Text__c</members>
         <members>Freddie_Mac__c.FreddieMac_Text__c</members>
         <members>Fronde__c.Fronde_text__c</members>
         <members>Genomic__c.Genomic_picklist_field__c</members>
@@ -796,6 +797,7 @@
         <members>Feb_Demo__c</members>
         <members>Fedex__c</members>
         <members>FeedItem</members>
+        <members>Fitbit__c</members>
         <members>ForecastingCategoryMapping</members>
         <members>Freddie_Mac__c</members>
         <members>Fronde__c</members>
@@ -964,6 +966,7 @@
         <members>Feb_Demo__c-Feb Demo Layout</members>
         <members>Fedex__c-Fedex Layout</members>
         <members>FeedItem-Feed Item Layout</members>
+        <members>Fitbit__c-Fitbit Layout</members>
         <members>Freddie_Mac__c-Freddie Mac Layout</members>
         <members>Fronde__c-Fronde Layout</members>
         <members>Genomic__c-Genomic Layout</members>

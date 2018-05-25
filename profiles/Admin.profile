@@ -1224,6 +1224,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Fitbit__c.FT_Text__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Freddie_Mac__c.FreddieMac_Text__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -2178,6 +2183,9 @@
         <layout>FeedItem-Feed Item Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Fitbit__c-Fitbit Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Freddie_Mac__c-Freddie Mac Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -2676,6 +2684,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>Fedex__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Fitbit__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
