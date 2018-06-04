@@ -1924,6 +1924,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>RegionsBank__c.June1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>RegionsBank__c.RB_text__c</field>
         <readable>true</readable>
     </fieldPermissions>
