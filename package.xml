@@ -682,7 +682,10 @@
         <members>Product2.ProductCode</members>
         <members>Product2.QuantityUnitOfMeasure</members>
         <members>RegionsBank__c.June1__c</members>
+        <members>RegionsBank__c.June4_field__c</members>
         <members>RegionsBank__c.RB_text__c</members>
+        <members>RegionsBank__c.TFS_Demo__c</members>
+        <members>RegionsBank__c.Test2__c</members>
         <members>RiverBed__c.RB_Text1__c</members>
         <members>Sep_Demo__c.Digimarc_text__c</members>
         <members>Sep_Demo__c.Glassdoor__c</members>
