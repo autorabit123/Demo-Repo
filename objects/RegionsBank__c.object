@@ -62,9 +62,39 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>June4_field__c</fullName>
+        <externalId>false</externalId>
+        <label>June4 field</label>
+        <length>250</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>RB_text__c</fullName>
         <externalId>false</externalId>
         <label>RB text</label>
+        <length>250</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>TFS_Demo__c</fullName>
+        <externalId>false</externalId>
+        <label>TFS Demo</label>
+        <length>250</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Test2__c</fullName>
+        <externalId>false</externalId>
+        <label>Test2</label>
         <length>250</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
