@@ -1337,6 +1337,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>June_14_demo__c.Test1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>June_15__c.June_15_Field2__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -2271,6 +2276,9 @@
         <layout>July3__c-July3 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>June_14_demo__c-June 14 demo Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>June_15__c-June 15 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -2862,6 +2870,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>July3__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>June_14_demo__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
