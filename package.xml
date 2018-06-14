@@ -499,6 +499,7 @@
         <members>HNI_Object__c.HNI_Picklist__c</members>
         <members>HNI_Object__c.HNI_Text_Field__c</members>
         <members>Healthfirst_object__c.HF_text__c</members>
+        <members>ITA__c.Test1__c</members>
         <members>Idea.Categories</members>
         <members>Idea.Status</members>
         <members>Jan_2018_test__c.Jan_17_T1__c</members>
@@ -811,6 +812,7 @@
         <members>HNI_Object2__c</members>
         <members>HNI_Object__c</members>
         <members>Healthfirst_object__c</members>
+        <members>ITA__c</members>
         <members>Idea</members>
         <members>Jan_2018_test__c</members>
         <members>Jefferie__c</members>
@@ -981,6 +983,7 @@
         <members>HNI_Object2__c-HNI Object2 Layout</members>
         <members>HNI_Object__c-HNI Object Layout</members>
         <members>Healthfirst_object__c-Healthfirst object Layout</members>
+        <members>ITA__c-ITA Layout</members>
         <members>Idea-Idea Layout</members>
         <members>Jan_2018_test__c-Jan 2018 test Layout</members>
         <members>Jefferie__c-Jefferie Layout</members>
