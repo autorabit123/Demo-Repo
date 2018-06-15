@@ -881,6 +881,7 @@
         <name>CustomObjectTranslation</name>
     </types>
     <types>
+        <members>June_14_demo__c</members>
         <members>Position__c</members>
         <members>Test_Demo__c</members>
         <name>CustomTab</name>
@@ -1066,6 +1067,7 @@
         <members>Contract.MyDraftContracts</members>
         <members>Contract.MyInApprovalContracts</members>
         <members>Idea.Ideas_Last_7_Days</members>
+        <members>June_14_demo__c.All</members>
         <members>Lead.AllOpenLeads</members>
         <members>Lead.MyUnreadLeads</members>
         <members>Lead.TodaysLeads</members>
