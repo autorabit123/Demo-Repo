@@ -3092,6 +3092,10 @@
         <visible>false</visible>
     </recordTypeVisibilities>
     <tabVisibilities>
+        <tab>June_14_demo__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>Position__c</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
