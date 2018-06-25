@@ -1337,6 +1337,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>June_14_demo__c.Motorola_4_2_demo__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>June_14_demo__c.Test1__c</field>
         <readable>true</readable>
     </fieldPermissions>
