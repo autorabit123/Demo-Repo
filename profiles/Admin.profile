@@ -1344,6 +1344,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>June_26_demo__c.Auto1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>June_26_demo__c.Test1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Lead.Address</field>
         <readable>true</readable>
     </fieldPermissions>
