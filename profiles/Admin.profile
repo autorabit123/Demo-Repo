@@ -1517,6 +1517,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>NVIDIA__c.AP1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>NVIDIA__c.Test1__c</field>
         <readable>true</readable>
     </fieldPermissions>
