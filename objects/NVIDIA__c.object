@@ -61,6 +61,7 @@
     </fields>
     <fields>
         <fullName>Test1__c</fullName>
+        <description>AP change</description>
         <externalId>false</externalId>
         <label>Test1</label>
         <length>250</length>
