@@ -75,6 +75,7 @@
         <members>Account.AnnualRevenue</members>
         <members>Account.AutorabitExtId__c</members>
         <members>Account.BillingAddress</members>
+        <members>Account.BillingCity</members>
         <members>Account.CleanStatus</members>
         <members>Account.CustomerPriority__c</members>
         <members>Account.DL_Test2__c</members>
