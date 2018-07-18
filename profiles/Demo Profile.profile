@@ -2384,7 +2384,7 @@
         <name>LightningConsoleAllowedForUser</name>
     </userPermissions>
     <userPermissions>
-        <enabled>true</enabled>
+        <enabled>False</enabled>
         <name>LightningExperienceUser</name>
     </userPermissions>
     <userPermissions>
