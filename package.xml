@@ -740,6 +740,7 @@
         <members>Test_Demo__c.NZ_Post_field__c</members>
         <members>Test_Demo__c.Paycor_field__c</members>
         <members>Test_Demo__c.Test_field__c</members>
+        <members>Travelers_Demo_Obj__c.Travelers_Demo_Fld__c</members>
         <members>User.ManagerId</members>
         <members>UserProvisioningRequest.AppName</members>
         <members>UserProvisioningRequest.ApprovalStatus</members>
@@ -866,6 +867,7 @@
         <members>StreamingChannel</members>
         <members>Task</members>
         <members>Test_Demo__c</members>
+        <members>Travelers_Demo_Obj__c</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
         <members>Vehicle__c</members>
@@ -893,6 +895,7 @@
         <members>June_14_demo__c</members>
         <members>Position__c</members>
         <members>Test_Demo__c</members>
+        <members>Travelers_Demo_Obj__c</members>
         <name>CustomTab</name>
     </types>
     <types>
@@ -1041,6 +1044,7 @@
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
         <members>Test_Demo__c-Test Demo Layout</members>
+        <members>Travelers_Demo_Obj__c-Travelers Demo Obj Layout</members>
         <members>User-User Layout</members>
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
@@ -1101,6 +1105,7 @@
         <members>Solution.AllReviewedSolutions</members>
         <members>Solution.AllUnreviewedSolutions</members>
         <members>Test_Demo__c.All</members>
+        <members>Travelers_Demo_Obj__c.All</members>
         <members>User.ActiveUsers</members>
         <members>User.AdminUsers</members>
         <members>User.AllUsers</members>
