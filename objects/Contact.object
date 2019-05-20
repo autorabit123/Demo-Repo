@@ -45,11 +45,11 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
-        <actionName>List</actionName>
+        <actionName>ListClean</actionName>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
-        <actionName>ListClean</actionName>
+        <actionName>List</actionName>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
@@ -77,11 +77,11 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
-        <actionName>View</actionName>
+        <actionName>ViewCustomerPortal</actionName>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
-        <actionName>ViewCustomerPortal</actionName>
+        <actionName>View</actionName>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
@@ -211,6 +211,16 @@
                 </value>
             </valueSetDefinition>
         </valueSet>
+    </fields>
+    <fields>
+        <fullName>Location__c</fullName>
+        <displayLocationInDecimal>true</displayLocationInDecimal>
+        <externalId>false</externalId>
+        <label>Location</label>
+        <required>false</required>
+        <scale>7</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Location</type>
     </fields>
     <fields>
         <fullName>MailingAddress</fullName>

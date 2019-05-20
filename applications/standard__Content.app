@@ -2,10 +2,12 @@
 <CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
     <defaultLandingTab>standard-home</defaultLandingTab>
     <formFactors>Large</formFactors>
-    <tab>standard-Chatter</tab>
-    <tab>standard-Workspace</tab>
-    <tab>standard-ContentSearch</tab>
-    <tab>standard-ContentSubscriptions</tab>
-    <tab>standard-ContentFavorites</tab>
-    <tab>Test_Demo__c</tab>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <tabs>standard-Chatter</tabs>
+    <tabs>standard-Workspace</tabs>
+    <tabs>standard-ContentSearch</tabs>
+    <tabs>standard-ContentSubscriptions</tabs>
+    <tabs>Task__c</tabs>
+    <tabs>Demo_Object_May_20__c</tabs>
 </CustomApplication>

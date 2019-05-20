@@ -45,11 +45,11 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
-        <actionName>List</actionName>
+        <actionName>ListClean</actionName>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
-        <actionName>ListClean</actionName>
+        <actionName>List</actionName>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>

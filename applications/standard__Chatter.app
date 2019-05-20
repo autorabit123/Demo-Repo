@@ -2,10 +2,13 @@
 <CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
     <defaultLandingTab>standard-home</defaultLandingTab>
     <formFactors>Large</formFactors>
-    <tab>standard-Chatter</tab>
-    <tab>standard-UserProfile</tab>
-    <tab>standard-OtherUserProfile</tab>
-    <tab>standard-CollaborationGroup</tab>
-    <tab>standard-File</tab>
-    <tab>Test_Demo__c</tab>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <tabs>standard-Chatter</tabs>
+    <tabs>standard-UserProfile</tabs>
+    <tabs>standard-OtherUserProfile</tabs>
+    <tabs>standard-CollaborationGroup</tabs>
+    <tabs>standard-File</tabs>
+    <tabs>Task__c</tabs>
+    <tabs>Demo_Object_May_20__c</tabs>
 </CustomApplication>
