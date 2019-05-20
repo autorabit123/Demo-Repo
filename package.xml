@@ -894,6 +894,8 @@
         <members>Test_Demo__c.NZ_Post_field__c</members>
         <members>Test_Demo__c.Paycor_field__c</members>
         <members>Test_Demo__c.Test_field__c</members>
+        <members>Test_Object_May_20__c.TC_Test_Field__c</members>
+        <members>Test_Object_May_20__c.TC_rent__c</members>
         <members>Travelers_Demo_Obj__c.Travelers_Demo_Fld__c</members>
         <members>User.ManagerId</members>
         <members>UserProvisioningRequest.AppName</members>
@@ -1028,6 +1030,7 @@
         <members>Task</members>
         <members>Task__c</members>
         <members>Test_Demo__c</members>
+        <members>Test_Object_May_20__c</members>
         <members>Travelers_Demo_Obj__c</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
@@ -1068,6 +1071,7 @@
         <members>Sample_Data_Import</members>
         <members>Task__c</members>
         <members>Test_Demo__c</members>
+        <members>Test_Object_May_20__c</members>
         <members>Travelers_Demo_Obj__c</members>
         <name>CustomTab</name>
     </types>
@@ -1262,6 +1266,7 @@
         <members>Task-Task Layout</members>
         <members>Task__c-Task Layout</members>
         <members>Test_Demo__c-Test Demo Layout</members>
+        <members>Test_Object_May_20__c-Test Object May 20 Layout</members>
         <members>Travelers_Demo_Obj__c-Travelers Demo Obj Layout</members>
         <members>User-User Layout</members>
         <members>UserProvAccount-User Provisioning Account Layout</members>
@@ -1329,6 +1334,7 @@
         <members>Solution.AllUnreviewedSolutions</members>
         <members>Task__c.All</members>
         <members>Test_Demo__c.All</members>
+        <members>Test_Object_May_20__c.All</members>
         <members>Travelers_Demo_Obj__c.All</members>
         <members>User.ActiveUsers</members>
         <members>User.AdminUsers</members>
@@ -1585,6 +1591,7 @@
         <members>Genomic__c.Genomic_validation</members>
         <members>Nov_test_2__c.Nov_test_validation_rule</members>
         <members>Task__c.VR1</members>
+        <members>Test_Object_May_20__c.VR</members>
         <name>ValidationRule</name>
     </types>
     <types>

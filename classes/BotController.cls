@@ -1,5 +1,5 @@
 public with sharing class BotController {
-//Much needed comment
+//Test Comment!!
     class HandlerMapping {
         
         public String handlerClassName;
@@ -11,7 +11,7 @@ public with sharing class BotController {
         }
 
     }
-//Demo on the 20th of May
+//ILT
     static List<HandlerMapping> handlerMappings;
     
     static {
