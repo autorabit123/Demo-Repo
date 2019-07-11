@@ -12,6 +12,14 @@
         <senderType>CurrentUser</senderType>
         <template>unfiled$public/Case_alert</template>
     </alerts>
+    <fieldUpdates>
+        <fullName>Case_Stat_Update</fullName>
+        <field>Status</field>
+        <name>Case Stat Update</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+    </fieldUpdates>
     <rules>
         <fullName>case trial</fullName>
         <actions>
