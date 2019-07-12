@@ -900,6 +900,7 @@
         <members>Test_Demo__c.NZ_Post_field__c</members>
         <members>Test_Demo__c.Paycor_field__c</members>
         <members>Test_Demo__c.Test_field__c</members>
+        <members>Test_Object_Jul12__c.Test_July12__c</members>
         <members>Test_Object_May_20__c.TC_Test_Field__c</members>
         <members>Test_Object_May_20__c.TC_rent__c</members>
         <members>Travelers_Demo_Obj__c.Travelers_Demo_Fld__c</members>
@@ -1038,6 +1039,7 @@
         <members>Task</members>
         <members>Task__c</members>
         <members>Test_Demo__c</members>
+        <members>Test_Object_Jul12__c</members>
         <members>Test_Object_May_20__c</members>
         <members>Travelers_Demo_Obj__c</members>
         <members>User</members>
@@ -1081,6 +1083,7 @@
         <members>Sample_Data_Import</members>
         <members>Task__c</members>
         <members>Test_Demo__c</members>
+        <members>Test_Object_Jul12__c</members>
         <members>Test_Object_May_20__c</members>
         <members>Travelers_Demo_Obj__c</members>
         <name>CustomTab</name>
@@ -1281,6 +1284,7 @@
         <members>Task-Task Layout</members>
         <members>Task__c-Task Layout</members>
         <members>Test_Demo__c-Test Demo Layout</members>
+        <members>Test_Object_Jul12__c-Test Object Jul12 Layout</members>
         <members>Test_Object_May_20__c-Test Object May 20 Layout</members>
         <members>Travelers_Demo_Obj__c-Travelers Demo Obj Layout</members>
         <members>User-User Layout</members>
@@ -1351,6 +1355,7 @@
         <members>Solution.AllUnreviewedSolutions</members>
         <members>Task__c.All</members>
         <members>Test_Demo__c.All</members>
+        <members>Test_Object_Jul12__c.All</members>
         <members>Test_Object_May_20__c.All</members>
         <members>Travelers_Demo_Obj__c.All</members>
         <members>User.ActiveUsers</members>
@@ -1378,6 +1383,8 @@
         <members>Chatter Free User</members>
         <members>Chatter Moderator User</members>
         <members>Cisco CP</members>
+        <members>CloneSysAdmin</members>
+        <members>Clone_Admin</members>
         <members>ContractManager</members>
         <members>Cross Org Data Proxy User</members>
         <members>Custom%3A Marketing Profile</members>
@@ -1409,11 +1416,19 @@
         <members>Partner Community User</members>
         <members>PlatformPortal</members>
         <members>ReadOnly</members>
+        <members>Run2</members>
+        <members>SF_Test</members>
         <members>Silver Partner User</members>
         <members>SolutionManager</members>
         <members>Standard</members>
         <members>StandardAul</members>
+        <members>SysAdmin2</members>
+        <members>Test_SF</members>
         <members>Work%2Ecom Only User</members>
+        <members>deploy password policies test</members>
+        <members>deploy test cbn</members>
+        <members>readonly2</members>
+        <members>testrunarun</members>
         <name>Profile</name>
     </types>
     <types>

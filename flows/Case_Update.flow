@@ -52,7 +52,7 @@
             <label>Case</label>
         </rules>
     </decisions>
-    <interviewLabel>Case_Update-1_InterviewLabel</interviewLabel>
+    <interviewLabel>Case_Update-2_InterviewLabel</interviewLabel>
     <label>Case Update</label>
     <processMetadataValues>
         <name>ObjectType</name>
@@ -111,13 +111,13 @@
             </processMetadataValues>
             <field>Status</field>
             <value>
-                <stringValue>Working</stringValue>
+                <stringValue>Escalated</stringValue>
             </value>
         </inputAssignments>
         <object>Case</object>
     </recordCreates>
     <startElementReference>myDecision</startElementReference>
-    <status>Active</status>
+    <status>Obsolete</status>
     <variables>
         <name>myVariable_current</name>
         <dataType>SObject</dataType>
